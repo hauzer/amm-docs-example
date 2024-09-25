@@ -1,0 +1,25 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.AWS.S3.AmazonS3Service.DownloadStringFromUrl" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.AWS.S3.AmazonS3Service.DownloadStringFromUrl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="903,171,1143,229"/>
+<area shape="rect" id="Node000002" href="$d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#ab36f8d1d6957cb6863cab65363e9d8c2" title=" " alt="" coords="600,5,855,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="976,163,919,119,854,78,829,67,831,62,857,74,922,115,979,158"/>
+<area shape="rect" id="Node000003" href="$d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#a3bdbcbdf8ad1737344057d7ff03135d7" title=" " alt="" coords="608,88,847,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="901,169,834,150,836,145,902,163"/>
+<area shape="rect" id="Node000008" href="$d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#a7bffd7a0849c284e906e7fdb3389ab48" title=" " alt="" coords="608,171,847,229"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="888,203,848,203,848,197,888,197"/>
+<area shape="rect" id="Node000009" href="$d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#acde7f15d01cfda39f39c3b82cc32c404" title=" " alt="" coords="608,253,847,312"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="902,237,836,255,834,250,901,231"/>
+<area shape="rect" id="Node000010" href="$d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#a2ba8751acd4c3759525915972ce3ad1d" title=" " alt="" coords="608,336,847,395"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="979,242,922,285,857,326,831,338,829,333,854,322,919,281,976,237"/>
+<area shape="rect" id="Node000004" href="$d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#aa1715df107d2c604ba78e80564d67873" title=" " alt="" coords="297,88,552,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="593,120,553,120,553,115,593,115"/>
+<area shape="rect" id="Node000005" href="$de/d5c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_template_service.html#a33019745738ce300275bb203bbe6e1b1" title=" " alt="" coords="8,5,246,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="301,86,235,67,236,62,303,81"/>
+<area shape="rect" id="Node000006" href="$de/d5c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_template_service.html#a076df808207d807cf246fbfdfd2a19d7" title=" " alt="" coords="8,88,246,147"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="281,120,247,120,247,115,281,115"/>
+<area shape="rect" id="Node000007" href="$de/d5c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_template_service.html#ae005d78b77919b82d0c844bb66c3485e" title=" " alt="" coords="8,171,246,229"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="303,154,236,173,235,167,301,149"/>
+<area shape="rect" id="Node000011" href="$d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#ad58e540499f23fa2ea1cc8b28a0ac974" title=" " alt="" coords="305,336,544,395"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="592,368,545,368,545,363,592,363"/>
+<area shape="rect" id="Node000012" href="$d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#aced5e862e217bb0e181c968aa561e549" title=" " alt="" coords="5,336,249,395"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="289,368,249,368,249,363,289,363"/>
+</map>

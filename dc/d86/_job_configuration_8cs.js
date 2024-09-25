@@ -1,0 +1,4 @@
+var _job_configuration_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.EntityConfiguration.JobConfiguration", "d9/def/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_configuration_1_1_job_configuration.html", "d9/def/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_configuration_1_1_job_configuration" ]
+];

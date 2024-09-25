@@ -1,0 +1,4 @@
+var _email_domain_configuration_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.EntityConfiguration.EmailDomainConfiguration", "d1/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confi6ee5a15e83288b8deafa29a251f52720.html", "d1/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confi6ee5a15e83288b8deafa29a251f52720" ]
+];

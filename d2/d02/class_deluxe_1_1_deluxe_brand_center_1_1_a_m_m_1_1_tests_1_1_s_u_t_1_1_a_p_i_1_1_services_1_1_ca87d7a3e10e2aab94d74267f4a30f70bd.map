@@ -1,0 +1,37 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Tests.SUT.API.Services.CampaignBuilderService.LaunchCampaign.Test" name="Deluxe.DeluxeBrandCenter.AMM.Tests.SUT.API.Services.CampaignBuilderService.LaunchCampaign.Test">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1003,268,1061"/>
+<area shape="rect" id="Node000002" href="$db/d4c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_cafec0a7bd1a6caabcec664d137fddd08f.html" title=" " alt="" coords="322,492,600,551"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,988,439,550,443,552,167,991"/>
+<area shape="rect" id="Node000014" href="$df/d35/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca89a34d6a35523a8d6e95895d9a21d568.html" title=" " alt="" coords="322,995,600,1069"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="283,1029,321,1029,321,1035,283,1035"/>
+<area shape="rect" id="Node000016" href="$d8/d6b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca175bd470432734d14df09b506a159183.html" title=" " alt="" coords="316,1101,606,1160"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="250,1064,363,1098,361,1103,249,1069"/>
+<area shape="rect" id="Node000003" href="$d3/da5/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca1898569d3275ec518d2408bf72aa4bb9.html" title=" " alt="" coords="666,5,996,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,476,483,390,517,281,541,224,571,169,608,118,652,74,669,62,672,67,656,78,612,122,576,172,546,227,522,283,488,391,471,477"/>
+<area shape="rect" id="Node000004" href="$d7/db7/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_caabc268621ef1bcda282685d7a460e0be.html" title=" " alt="" coords="654,88,1008,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="470,476,492,405,529,318,553,274,582,231,615,191,652,157,670,145,673,149,656,161,618,195,586,234,558,276,534,321,497,407,475,477"/>
+<area shape="rect" id="Node000005" href="$df/d6e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca708692ca734c9044d2616e3c982ef00d.html" title=" " alt="" coords="668,171,995,229"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="477,476,504,421,542,357,592,293,621,264,652,239,672,228,675,232,656,244,624,268,596,296,547,360,509,424,482,479"/>
+<area shape="rect" id="Node000006" href="$d0/d41/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca0804a7917dbfab010328979f3e78f147.html" title=" " alt="" coords="681,253,981,328"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="493,478,562,406,605,369,653,338,679,325,682,329,655,342,609,374,566,410,497,482"/>
+<area shape="rect" id="Node000007" href="$db/d69/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca6777966e9919441b18058b8ded8bf40e.html" title=" " alt="" coords="668,352,994,427"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="539,483,653,436,687,425,689,430,655,441,541,488"/>
+<area shape="rect" id="Node000008" href="$d5/de7/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca1284dfadbc29639f51dd5156f1837347.html" title=" " alt="" coords="674,451,989,509"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="615,501,673,495,673,500,616,507"/>
+<area shape="rect" id="Node000009" href="$d4/d91/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_cab8b2bbcda2c4f4ce77b06bafd9f99cb3.html" title=" " alt="" coords="672,533,991,592"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="616,536,671,542,671,547,616,541"/>
+<area shape="rect" id="Node000010" href="$d5/d72/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca6fa9d397b9bf26ab67a17e3b4cd4cef5.html" title=" " alt="" coords="664,616,998,675"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="539,555,655,601,693,613,691,618,653,607,537,560"/>
+<area shape="rect" id="Node000011" href="$d9/dba/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_caa9434b708b82bd7d5733a64922c8ff7a.html" title=" " alt="" coords="686,699,976,773"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="501,560,569,624,611,657,655,684,687,699,685,704,653,689,608,661,565,628,497,564"/>
+<area shape="rect" id="Node000012" href="$d5/d9d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_cad53d40ba9b8fea5fdd02675ca9f074b7.html" title=" " alt="" coords="686,797,976,872"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="484,563,512,614,550,674,598,733,626,760,655,783,687,801,684,805,653,788,622,764,594,737,546,677,507,617,480,566"/>
+<area shape="rect" id="Node000013" href="$dd/da6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_cab849786c5288483517d6cd65c62d4b69.html" title=" " alt="" coords="676,896,986,971"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="476,565,498,635,535,721,559,765,587,808,619,847,656,882,677,896,674,901,652,886,615,851,582,811,554,768,530,723,493,637,471,566"/>
+<area shape="rect" id="Node000015" href="$de/da0/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca9c27568c593ee54d88668ead1c682981.html" title=" " alt="" coords="680,995,982,1069"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="615,1029,680,1029,680,1035,615,1035"/>
+<area shape="rect" id="Node000017" href="$db/d87/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_caf0a8581ccb3d38f5e684813e95f0fd66.html" title=" " alt="" coords="681,1093,981,1168"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="621,1128,681,1128,681,1133,621,1133"/>
+<area shape="rect" id="Node000018" href="$d9/d00/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca50f43ed4e17c3427a6bdcfc21aae36c5.html" title=" " alt="" coords="698,1192,964,1251"/>
+<area shape="poly" id="edge17_Node000016_Node000018" title=" " alt="" coords="592,1162,655,1177,702,1189,700,1194,653,1183,591,1167"/>
+</map>

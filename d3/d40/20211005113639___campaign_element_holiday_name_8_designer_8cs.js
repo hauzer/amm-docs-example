@@ -1,0 +1,4 @@
+var 20211005113639___campaign_element_holiday_name_8_designer_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.CampaignElementHolidayName", "d0/d2f/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1a209f27d80711abdfa6b150fdcbccfd5.html", "d0/d2f/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1a209f27d80711abdfa6b150fdcbccfd5" ]
+];

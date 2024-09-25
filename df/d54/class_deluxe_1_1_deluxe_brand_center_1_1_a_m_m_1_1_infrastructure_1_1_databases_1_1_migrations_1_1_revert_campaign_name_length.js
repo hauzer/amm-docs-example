@@ -1,0 +1,6 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_revert_campaign_name_length =
+[
+    [ "BuildTargetModel", "df/d54/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_revert_campaign_name_length.html#ac3eddcc73f97dc1ac1fd279ca27ead82", null ],
+    [ "Down", "df/d54/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_revert_campaign_name_length.html#ab8981647567767960e1530d2efd1d288", null ],
+    [ "Up", "df/d54/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_revert_campaign_name_length.html#a47b8b22df406b54ec00db81e1f14d3f2", null ]
+];

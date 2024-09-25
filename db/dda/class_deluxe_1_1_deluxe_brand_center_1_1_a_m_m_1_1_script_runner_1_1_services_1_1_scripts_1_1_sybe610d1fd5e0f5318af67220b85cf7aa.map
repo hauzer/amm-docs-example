@@ -1,0 +1,25 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.ScriptRunner.Services.Scripts.SyncCampaignWithPersona" name="Deluxe.DeluxeBrandCenter.AMM.ScriptRunner.Services.Scripts.SyncCampaignWithPersona">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1428,203,1665,261"/>
+<area shape="rect" id="Node000002" href="$d9/d9b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_services_1_1_script.html" title=" " alt="" coords="974,16,1237,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1216,61,1242,68,1326,92,1362,106,1406,127,1463,163,1512,200,1509,205,1460,167,1403,132,1359,111,1324,97,1241,73,1215,66"/>
+<area shape="rect" id="Node000003" href="$d9/d9b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_services_1_1_script.html" title=" " alt="" coords="488,8,713,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="728,35,973,35,973,40,728,40"/>
+<area shape="rect" id="Node000004" href="$df/dfe/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_services_1_1_i_script.html" title=" " alt="" coords="38,24,177,51"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="193,35,487,35,487,40,193,40"/>
+<area shape="rect" id="Node000005" href="$d3/d96/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_i_application_db_context.html" title=" " alt="" coords="969,83,1241,141"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1245,143,1405,185,1453,200,1451,205,1404,191,1244,148"/>
+<area shape="rect" id="Node000006" href="$db/d7e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_client_db_context.html" title=" " alt="" coords="986,165,1224,224"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1240,203,1428,219,1428,225,1239,209"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="558,181,642,208"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="658,192,985,192,985,197,658,197"/>
+<area shape="rect" id="Node000008" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html" title=" " alt="" coords="978,248,1233,291"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1248,255,1428,239,1428,245,1249,260"/>
+<area shape="rect" id="Node000009" href="$d2/dd7/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_mindfire_service.html" title=" " alt="" coords="990,315,1221,357"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1236,310,1404,273,1454,259,1455,264,1405,279,1237,316"/>
+<area shape="rect" id="Node000010" href="$d9/daf/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_user_campaign_service.html" title=" " alt="" coords="991,381,1219,440"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1234,382,1319,358,1403,326,1459,294,1507,259,1510,264,1462,298,1405,330,1320,363,1235,387"/>
+<area shape="rect" id="Node000011" href="$d3/ddb/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_d_b_service.html" title=" " alt="" coords="505,389,696,432"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="711,408,990,408,990,413,711,413"/>
+<area shape="rect" id="Node000012" href="$d3/ddb/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_d_b_service.html" title=" " alt="" coords="5,381,210,440"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="225,408,504,408,504,413,225,413"/>
+</map>

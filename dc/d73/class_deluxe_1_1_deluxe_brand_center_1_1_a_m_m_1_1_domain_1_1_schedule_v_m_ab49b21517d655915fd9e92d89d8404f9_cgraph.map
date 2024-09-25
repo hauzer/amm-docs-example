@@ -1,0 +1,11 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Domain.ScheduleVM.SetFutureDateAndRecurrentMessage" name="Deluxe.DeluxeBrandCenter.AMM.Domain.ScheduleVM.SetFutureDateAndRecurrentMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,246,147"/>
+<area shape="rect" id="Node000002" href="$d2/db4/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_campaign_schedule_helper.html#a723ab9babf14a8e4903b6c6c7092b995" title=" " alt="" coords="294,88,549,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,115,278,115,278,120,246,120"/>
+<area shape="rect" id="Node000003" href="$d2/db4/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_campaign_schedule_helper.html#a3b181742537edc1a3cc4257dfa4b54cc" title=" " alt="" coords="597,5,852,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="531,85,599,66,600,71,532,90"/>
+<area shape="rect" id="Node000004" href="$d2/db4/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_campaign_schedule_helper.html#ac249f0dc473affb58fc99c6bd64dca32" title=" " alt="" coords="597,88,852,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="549,115,581,115,581,120,549,120"/>
+<area shape="rect" id="Node000005" href="$d2/db4/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_campaign_schedule_helper.html#a00320daa20d48262dc685f61f7a0e7ab" title=" " alt="" coords="597,171,852,229"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="532,145,600,163,599,169,531,150"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.ClientDBService&lt; TModel, TModelVM &gt;" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.ClientDBService&lt; TModel, TModelVM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="235,60,469,119"/>
+<area shape="rect" id="Node000003" href="$da/d9e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_client_d_b_service.html" title=" " alt="" coords="687,5,922,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="485,73,687,52,687,57,485,78"/>
+<area shape="rect" id="Node000005" href="$da/d9e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_client_d_b_service.html" title=" " alt="" coords="687,104,922,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="485,100,687,119,687,125,485,105"/>
+<area shape="rect" id="Node000002" href="$d0/dcc/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_client_d_b_service.html" title=" " alt="" coords="5,68,186,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,87,235,87,235,92,201,92"/>
+<area shape="rect" id="Node000004" href="$dd/d67/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_client_service.html" title=" " alt="" coords="971,21,1186,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="937,40,971,40,971,45,937,45"/>
+<area shape="rect" id="Node000006" href="$d3/df8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_user_service.html" title=" " alt="" coords="974,112,1183,155"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="937,131,974,131,974,136,937,136"/>
+</map>

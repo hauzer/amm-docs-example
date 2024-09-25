@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.PersonaService.GetPersonaInstanceNamesForCampaign" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.PersonaService.GetPersonaInstanceNamesForCampaign">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,266,117"/>
+<area shape="rect" id="Node000002" href="$d5/d6c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_persona_service.html#a73e67dbad6ad9248750b2897d76cf528" title=" " alt="" coords="314,59,569,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,85,298,85,298,91,266,91"/>
+<area shape="rect" id="Node000003" href="$d3/d78/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_p_m_s_1_1_i_persona_microservice.html#a58c2cccea26156e833ec3f85fcb0ead9" title=" " alt="" coords="617,5,877,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="569,66,601,62,602,67,570,72"/>
+<area shape="rect" id="Node000004" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#aaac0af72e9b32df926d2afea555e1e34" title=" " alt="" coords="618,104,877,163"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="570,104,603,109,602,114,569,110"/>
+</map>

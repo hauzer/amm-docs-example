@@ -1,0 +1,4 @@
+var 20190718151134___inside_message_8_designer_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.InsideMessage", "d9/d27/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_inside_message.html", "d9/d27/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_inside_message" ]
+];

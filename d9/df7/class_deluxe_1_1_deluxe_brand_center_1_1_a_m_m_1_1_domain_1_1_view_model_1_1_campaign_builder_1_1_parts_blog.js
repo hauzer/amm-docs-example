@@ -1,0 +1,4 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_campaign_builder_1_1_parts_blog =
+[
+    [ "Text", "d9/df7/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_campaign_builder_1_1_parts_blog.html#a0ec0f653ed8e4905f65778a79d65c868", null ]
+];

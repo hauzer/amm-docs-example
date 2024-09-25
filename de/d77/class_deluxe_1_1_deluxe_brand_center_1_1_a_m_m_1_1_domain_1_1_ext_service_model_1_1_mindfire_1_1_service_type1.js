@@ -1,0 +1,4 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_service_type1 =
+[
+    [ "EventList", "de/d77/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_service_type1.html#a6a6cff1df1276e097f474405faa4dcd3", null ]
+];

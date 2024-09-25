@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d4/dd8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_filter_configuration.html" title=" " alt="" coords="5,261,254,304"/>
+<area shape="rect" id="Node000001" href="$db/d31/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_campaign_builder_1_1_campaign_get_v_m.html" title=" " alt="" coords="302,5,578,64"/>
+<area shape="poly" id="edge110_Node000000_Node000001" title=" " alt="" coords="148,246,174,206,209,160,251,114,300,74,320,62,323,67,303,78,255,117,213,163,179,210,153,249"/>
+<area shape="rect" id="Node000002" href="$dc/db0/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_contact_manager_1_1_associated_groups_filter_v_m.html" title=" " alt="" coords="303,88,576,147"/>
+<area shape="poly" id="edge111_Node000000_Node000002" title=" " alt="" coords="165,249,226,202,300,156,327,145,329,150,303,161,229,206,168,253"/>
+<area shape="rect" id="Node000003" href="$d5/dee/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_contact_manager_1_1_contact_activities_v_m.html" title=" " alt="" coords="303,171,576,229"/>
+<area shape="poly" id="edge112_Node000000_Node000003" title=" " alt="" coords="227,254,326,227,328,233,228,259"/>
+<area shape="rect" id="Node000004" href="$d8/dce/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_contact_manager_1_1_contact_filter_v_m.html" title=" " alt="" coords="303,253,576,312"/>
+<area shape="poly" id="edge113_Node000000_Node000004" title=" " alt="" coords="269,280,303,280,303,285,269,285"/>
+<area shape="rect" id="Node000005" href="$df/dbe/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_contact_manager_1_1_get_group_contacts.html" title=" " alt="" coords="303,336,576,395"/>
+<area shape="poly" id="edge114_Node000000_Node000005" title=" " alt="" coords="228,306,328,333,326,338,227,311"/>
+<area shape="rect" id="Node000006" href="$dc/d59/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_contact_manager_1_1_red_tail_tag_group_v_m.html" title=" " alt="" coords="303,419,576,477"/>
+<area shape="poly" id="edge115_Node000000_Node000006" title=" " alt="" coords="168,312,229,359,303,404,329,416,327,421,300,409,226,364,165,316"/>
+<area shape="rect" id="Node000007" href="$d5/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_sales_force_get_contact_input.html" title=" " alt="" coords="320,501,560,560"/>
+<area shape="poly" id="edge116_Node000000_Node000007" title=" " alt="" coords="153,316,179,356,213,402,255,448,303,487,323,498,320,503,300,492,251,452,209,405,174,359,148,319"/>
+</map>

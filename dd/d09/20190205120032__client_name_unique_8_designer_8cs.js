@@ -1,0 +1,4 @@
+var 20190205120032__client_name_unique_8_designer_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.ClientDb.clientNameUnique", "d9/d49/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_14852bd298767eab7d043758cae51aa8b.html", "d9/d49/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_14852bd298767eab7d043758cae51aa8b" ]
+];

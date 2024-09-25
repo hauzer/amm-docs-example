@@ -1,0 +1,5 @@
+var _auto_mapper_default_configuration_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Domain.Mapper.AutoMapperDefaultConfiguration", "d5/df4/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_mapper_1_1_auto_mapper_default_configuration.html", "d5/df4/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_mapper_1_1_auto_mapper_default_configuration" ],
+    [ "Deluxe.DeluxeBrandCenter.AMM.Domain.Mapper.AutoMapperDefaultConfiguration.JsonObjectTypeConverter", "d8/d98/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_mapper_1_1_auto_mapper_default_con54e1ad599b3985ddd0371934d4aa6d49.html", "d8/d98/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_mapper_1_1_auto_mapper_default_con54e1ad599b3985ddd0371934d4aa6d49" ]
+];

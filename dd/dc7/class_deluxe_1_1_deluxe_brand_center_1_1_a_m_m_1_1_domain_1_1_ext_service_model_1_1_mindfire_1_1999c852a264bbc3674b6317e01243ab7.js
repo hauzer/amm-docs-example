@@ -1,0 +1,9 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1999c852a264bbc3674b6317e01243ab7 =
+[
+    [ "GetUnsubscribedCredentialsRequest", "dd/dc7/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1999c852a264bbc3674b6317e01243ab7.html#aafb42b587e510e2667121a1c8092b7e6", null ],
+    [ "IsEncrypted", "dd/dc7/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1999c852a264bbc3674b6317e01243ab7.html#aaa33b2caba8bdd459b05c8a28cf12c31", null ],
+    [ "PartnerPassword", "dd/dc7/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1999c852a264bbc3674b6317e01243ab7.html#abdc9fd7b35f371a85c26676c2757b494", null ],
+    [ "SelectedAccountID", "dd/dc7/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1999c852a264bbc3674b6317e01243ab7.html#ae669d87d6a03298dbbb10118cec8066d", null ],
+    [ "UserEmail", "dd/dc7/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1999c852a264bbc3674b6317e01243ab7.html#a814778d1b4312c5fd4df95d5acdcd3ed", null ],
+    [ "UserPass", "dd/dc7/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1999c852a264bbc3674b6317e01243ab7.html#a39f8bad843c4e4d9562baff4cc487e31", null ]
+];

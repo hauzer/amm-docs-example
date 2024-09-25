@@ -1,0 +1,4 @@
+var _account_status_configuration_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.EntityConfiguration.AccountStatusConfiguration", "d6/dca/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confi4f4cc3d35494cc7d266be9429910ea83.html", "d6/dca/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confi4f4cc3d35494cc7d266be9429910ea83" ]
+];

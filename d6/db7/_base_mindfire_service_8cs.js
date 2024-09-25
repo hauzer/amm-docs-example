@@ -1,0 +1,5 @@
+var _base_mindfire_service_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Mindfire.IBaseMindfireService", "de/d4f/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_base_mindfire_service.html", "de/d4f/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_base_mindfire_service" ],
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Mindfire.BaseMindfireService", "d7/d00/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_base_mindfire_service.html", "d7/d00/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_base_mindfire_service" ]
+];

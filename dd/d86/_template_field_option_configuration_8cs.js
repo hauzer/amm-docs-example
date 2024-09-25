@@ -1,0 +1,4 @@
+var _template_field_option_configuration_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.EntityConfiguration.TemplateFieldOptionConfiguration", "d8/d3e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confic8ae00837271c44941dcc41af8736703.html", "d8/d3e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confic8ae00837271c44941dcc41af8736703" ]
+];

@@ -1,0 +1,4 @@
+var _i_program_service_m_f_extensions_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.ScriptRunner.Extensions.IProgramServiceMFExtensions", "d7/de0/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_extensions_1_1_i_program_service_m_f_extensions.html", "d7/de0/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_extensions_1_1_i_program_service_m_f_extensions" ]
+];

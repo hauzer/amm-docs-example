@@ -1,0 +1,27 @@
+var dir_b58a56b2756a54bad9f9e3912797bbd0 =
+[
+    [ "Account", "dir_49b19b9f678b787e494c235149c5ade8.html", "dir_49b19b9f678b787e494c235149c5ade8" ],
+    [ "Client", "dir_7984e00f474f37488d089edf5bf26a04.html", "dir_7984e00f474f37488d089edf5bf26a04" ],
+    [ "ContactManager", "dir_d79bae097ef6241145266be58f5726f8.html", "dir_d79bae097ef6241145266be58f5726f8" ],
+    [ "IDP", "dir_c48ae80fc577f0bd015ab3146b776ed8.html", "dir_c48ae80fc577f0bd015ab3146b776ed8" ],
+    [ "Session", "dir_5331e30acd70e21ca4938d866c5d97bb.html", "dir_5331e30acd70e21ca4938d866c5d97bb" ],
+    [ "AdminService.cs", "dc/d38/_admin_service_8cs.html", "dc/d38/_admin_service_8cs" ],
+    [ "BiService.cs", "d2/df0/_bi_service_8cs.html", "d2/df0/_bi_service_8cs" ],
+    [ "CampaignBuilderService.cs", "d6/d20/_campaign_builder_service_8cs.html", "d6/d20/_campaign_builder_service_8cs" ],
+    [ "CampaignElementService.cs", "dd/d9f/_campaign_element_service_8cs.html", "dd/d9f/_campaign_element_service_8cs" ],
+    [ "CampaignService.cs", "d7/da2/_campaign_service_8cs.html", "d7/da2/_campaign_service_8cs" ],
+    [ "DBCService.cs", "db/d19/_d_b_c_service_8cs.html", "db/d19/_d_b_c_service_8cs" ],
+    [ "DBService.cs", "d1/d29/_d_b_service_8cs.html", "d1/d29/_d_b_service_8cs" ],
+    [ "EmailDomainService.cs", "db/dc7/_email_domain_service_8cs.html", "db/dc7/_email_domain_service_8cs" ],
+    [ "JobPoolService.cs", "d0/d93/_job_pool_service_8cs.html", "d0/d93/_job_pool_service_8cs" ],
+    [ "MindfireService.cs", "d8/d41/_mindfire_service_8cs.html", "d8/d41/_mindfire_service_8cs" ],
+    [ "NamedDbService.cs", "dd/ddf/_named_db_service_8cs.html", "dd/ddf/_named_db_service_8cs" ],
+    [ "PersonaService.cs", "de/df7/_persona_service_8cs.html", "de/df7/_persona_service_8cs" ],
+    [ "RedShiftService.cs", "d3/df4/_red_shift_service_8cs.html", "d3/df4/_red_shift_service_8cs" ],
+    [ "SessionService.cs", "d4/d69/_session_service_8cs.html", "d4/d69/_session_service_8cs" ],
+    [ "SettingsService.cs", "d1/dab/_settings_service_8cs.html", "d1/dab/_settings_service_8cs" ],
+    [ "SignatureBlockService.cs", "d9/d4c/_signature_block_service_8cs.html", "d9/d4c/_signature_block_service_8cs" ],
+    [ "StateService.cs", "dc/d67/_state_service_8cs.html", "dc/d67/_state_service_8cs" ],
+    [ "TemplateService.cs", "d3/d06/_template_service_8cs.html", "d3/d06/_template_service_8cs" ],
+    [ "UserCampaignService.cs", "d7/d4d/_user_campaign_service_8cs.html", "d7/d4d/_user_campaign_service_8cs" ]
+];

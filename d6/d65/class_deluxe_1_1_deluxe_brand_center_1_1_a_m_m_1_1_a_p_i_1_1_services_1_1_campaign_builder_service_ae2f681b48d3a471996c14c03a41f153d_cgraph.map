@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.CampaignBuilderService.MapMicrositeSchedules" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.CampaignBuilderService.MapMicrositeSchedules">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,242,105"/>
+<area shape="rect" id="Node000002" href="$d6/d65/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_campaign_builder_service.html#a1ee9d2087d39b6615bb021ac3f84f3f3" title=" " alt="" coords="290,47,526,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,73,274,73,274,79,242,79"/>
+<area shape="rect" id="Node000003" href="$db/dc5/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_persona_service.html#a04d89250da1b31cb913d3005ffb1f6f7" title=" " alt="" coords="574,5,811,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="526,56,558,51,559,57,527,61"/>
+<area shape="rect" id="Node000004" href="$d3/d8e/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_settings_service.html#ae7e408d07e4c31ff8cee83f391ceaa73" title=" " alt="" coords="574,88,811,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="527,91,559,95,558,101,526,96"/>
+</map>

@@ -1,0 +1,4 @@
+var 20191029183740___p_m_s_integration_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.PMSIntegration", "d8/d4a/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_p_m_s_integration.html", "d8/d4a/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_p_m_s_integration" ]
+];

@@ -1,0 +1,4 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1dd5478fe2c4fc254a8719bdad013b685 =
+[
+    [ "BuildModel", "d9/d7b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1dd5478fe2c4fc254a8719bdad013b685.html#a7abf7fd1670eb73a3edb79845bf1cb1a", null ]
+];

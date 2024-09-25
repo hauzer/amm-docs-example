@@ -1,0 +1,5 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.IIDPService.RefreshToken" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.IIDPService.RefreshToken">
+<area shape="rect" id="Node000001" title="POST /api/refresh Body { “refreshToken” : “t” } &#45;200 with new token and refresh token if refresh toke..." alt="" coords="286,13,579,56"/>
+<area shape="rect" id="Node000002" href="$d8/d63/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_controllers_1_1_i_d_p_controller.html#a61bdfb5914f920ff1cdb1726d817de8e" title=" " alt="" coords="5,5,238,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,37,238,37,238,32,270,32"/>
+</map>

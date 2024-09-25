@@ -1,0 +1,4 @@
+var _outbound_filter_v_m_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Domain.ViewModel.CampaignBuilder.OutboundFilterVM", "d7/dca/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_campaign_builder_1_1_outbound_filter_v_m.html", "d7/dca/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_campaign_builder_1_1_outbound_filter_v_m" ]
+];

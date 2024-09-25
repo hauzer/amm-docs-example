@@ -1,0 +1,4 @@
+var 20231026110929___add_user_m_f_dashboard_password_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.AddUserMFDashboardPassword", "dc/de9/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1644e7a9008304bd799c6c9938d510018.html", "dc/de9/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1644e7a9008304bd799c6c9938d510018" ]
+];

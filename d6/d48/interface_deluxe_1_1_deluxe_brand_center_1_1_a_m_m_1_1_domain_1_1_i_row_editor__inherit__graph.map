@@ -1,0 +1,20 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Domain.IRowEditor&lt; T &gt;" name="Deluxe.DeluxeBrandCenter.AMM.Domain.IRowEditor&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Interface for row editing that has Delete row, append row and insert row." alt="" coords="5,47,207,89"/>
+<area shape="rect" id="Node000002" href="$de/d9e/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_table_editor.html" title="Interface implements IRowEditor and IColumnEditor." alt="" coords="256,47,461,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,65,256,65,256,71,222,71"/>
+<area shape="rect" id="Node000003" href="$d8/d96/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_table.html" title="Interface implements ITableReader, ITableWriter, ITableEditor." alt="" coords="511,47,695,89"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="477,65,510,65,510,71,477,71"/>
+<area shape="rect" id="Node000004" href="$d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html" title=" " alt="" coords="803,5,987,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="710,50,802,37,803,42,711,55"/>
+<area shape="rect" id="Node000009" href="$d8/d96/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_table.html" title=" " alt="" coords="1011,64,1208,107"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="710,69,719,69,1011,79,1011,85,719,75,710,74"/>
+<area shape="rect" id="Node000005" href="$d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html" title=" " alt="" coords="1232,5,1424,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1003,24,1231,24,1231,29,1003,29"/>
+<area shape="rect" id="Node000006" href="$d0/d2a/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_c_s_v_table.html" title=" " alt="" coords="1473,48,1675,91"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1440,43,1473,49,1472,54,1439,49"/>
+<area shape="rect" id="Node000007" href="$d8/d92/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_activity_c_s_v_table.html" title=" " alt="" coords="1725,15,1970,57"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1690,53,1724,48,1725,54,1690,58"/>
+<area shape="rect" id="Node000008" href="$dd/d19/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_contact_c_s_v_table.html" title=" " alt="" coords="1724,81,1971,124"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="1690,81,1724,85,1723,90,1690,86"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="1223,79,1473,70,1473,75,1223,84"/>
+</map>

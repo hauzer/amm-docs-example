@@ -1,0 +1,4 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_add_domain_response =
+[
+    [ "Result", "d3/d10/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_add_domain_response.html#aa6de23103d948fcb6892b3faf7372ae7", null ]
+];

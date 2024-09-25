@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d3/ddb/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_d_b_service.html" title=" " alt="" coords="5,47,210,105"/>
+<area shape="rect" id="Node000001" href="$d6/d4e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_d_b_service.html" title=" " alt="" coords="280,5,480,64"/>
+<area shape="poly" id="edge50_Node000000_Node000001" title=" " alt="" coords="225,56,279,47,280,52,225,61"/>
+<area shape="rect" id="Node000003" href="$d3/dac/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_named_db_service.html" title=" " alt="" coords="258,88,502,147"/>
+<area shape="poly" id="edge52_Node000000_Node000003" title=" " alt="" coords="225,91,258,96,257,101,225,96"/>
+<area shape="rect" id="Node000002" href="$dd/dd8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_named_db_service.html" title=" " alt="" coords="550,47,790,105"/>
+<area shape="poly" id="edge51_Node000001_Node000002" title=" " alt="" coords="496,48,550,56,549,62,495,54"/>
+<area shape="poly" id="edge53_Node000003_Node000002" title=" " alt="" coords="517,95,549,90,550,96,518,100"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Social.LinkedinService.GetSocailAccountInfo" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Social.LinkedinService.GetSocailAccountInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,231,147"/>
+<area shape="rect" id="Node000002" href="$d1/d32/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_linkedin_service.html#a1574ea5543c52dfc59e2d10119007b2e" title=" " alt="" coords="300,5,526,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,85,291,66,292,71,226,90"/>
+<area shape="rect" id="Node000004" href="$d1/d32/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_linkedin_service.html#a28987b5c2d566dd6ca1d5f354dac19e0" title=" " alt="" coords="300,88,526,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,115,285,115,285,120,231,120"/>
+<area shape="rect" id="Node000005" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a92bd6d01c18ab350b60414ec6991a32d" title=" " alt="" coords="279,171,547,229"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="226,145,292,163,291,169,224,150"/>
+<area shape="rect" id="Node000003" href="$d1/d32/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_linkedin_service.html#a6d197422d2a4279f7967974b6c66370e" title=" " alt="" coords="616,5,842,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="526,32,601,32,601,37,526,37"/>
+<area shape="rect" id="Node000006" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#aea43a5ab4bb779ccf8678ef7aac5be0c" title=" " alt="" coords="595,171,863,229"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="548,197,579,197,579,203,548,203"/>
+<area shape="rect" id="Node000007" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a5a50b059decefb01e96a92bc29bcd3e6" title=" " alt="" coords="911,171,1180,229"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="864,197,895,197,895,203,864,203"/>
+</map>

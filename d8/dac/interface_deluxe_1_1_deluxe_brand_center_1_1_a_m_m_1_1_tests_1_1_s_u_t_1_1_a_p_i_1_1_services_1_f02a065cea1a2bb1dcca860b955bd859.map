@@ -1,0 +1,11 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Tests.SUT.API.Services.CampaignBuilderService.LaunchCampaign.IContext" name="Deluxe.DeluxeBrandCenter.AMM.Tests.SUT.API.Services.CampaignBuilderService.LaunchCampaign.IContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="747,5,1011,64"/>
+<area shape="rect" id="Node000005" href="$d2/dbb/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca05f46e50c738fb665c61f8020538b2b1.html" title=" " alt="" coords="1061,5,1323,64"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1027,32,1060,32,1060,37,1027,37"/>
+<area shape="rect" id="Node000002" href="$db/d0e/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_contexts_1_1_i_service_result_context.html" title=" " alt="" coords="544,13,698,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="713,32,747,32,747,37,713,37"/>
+<area shape="rect" id="Node000003" href="$db/d0e/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_contexts_1_1_i_service_result_context.html" title=" " alt="" coords="126,5,361,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="377,32,544,32,544,37,377,37"/>
+<area shape="rect" id="Node000004" href="$db/d0e/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_contexts_1_1_i_context.html" title=" " alt="" coords="5,21,77,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="92,32,125,32,125,37,92,37"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.CampaignBuilderService.MapScheduleToXML" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.CampaignBuilderService.MapScheduleToXML">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,242,105"/>
+<area shape="rect" id="Node000002" href="$db/dc5/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_persona_service.html#a04d89250da1b31cb913d3005ffb1f6f7" title=" " alt="" coords="290,5,527,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,56,274,51,275,57,242,61"/>
+<area shape="rect" id="Node000003" href="$d3/d8e/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_settings_service.html#ae7e408d07e4c31ff8cee83f391ceaa73" title=" " alt="" coords="290,88,527,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,91,275,95,274,101,242,96"/>
+</map>

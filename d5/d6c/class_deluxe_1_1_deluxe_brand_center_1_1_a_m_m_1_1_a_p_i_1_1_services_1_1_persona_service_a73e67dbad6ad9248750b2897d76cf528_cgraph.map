@@ -1,0 +1,7 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.PersonaService.GetPersonaInstanceNamesForAudience" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.PersonaService.GetPersonaInstanceNamesForAudience">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,261,117"/>
+<area shape="rect" id="Node000002" href="$d3/d78/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_p_m_s_1_1_i_persona_microservice.html#a58c2cccea26156e833ec3f85fcb0ead9" title=" " alt="" coords="309,5,569,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,66,293,62,294,67,262,72"/>
+<area shape="rect" id="Node000003" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#aaac0af72e9b32df926d2afea555e1e34" title=" " alt="" coords="309,104,568,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,104,294,109,294,114,261,110"/>
+</map>

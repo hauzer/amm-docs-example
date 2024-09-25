@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.BIService.getContactsClickedOutboundSchedule" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.BIService.getContactsClickedOutboundSchedule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,234,147"/>
+<area shape="rect" id="Node000002" href="$d8/d4e/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_contact_manager_service.html#a132f719e011ede18baf1bc4e8bc7e259" title=" " alt="" coords="292,5,530,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,85,289,66,291,71,226,90"/>
+<area shape="rect" id="Node000003" href="$de/de7/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_red_shift_service.html#ac3d5f2f5cf3ebe4ad3a0bda19a15e795" title=" " alt="" coords="282,88,540,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,115,266,115,266,120,234,120"/>
+<area shape="rect" id="Node000004" href="$d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a2dad090e9ed421320777cf02268ef4d2" title=" " alt="" coords="303,171,519,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="226,145,291,163,289,168,225,150"/>
+</map>

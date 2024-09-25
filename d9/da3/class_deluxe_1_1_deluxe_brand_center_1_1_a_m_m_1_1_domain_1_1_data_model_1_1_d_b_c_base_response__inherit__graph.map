@@ -1,0 +1,7 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Domain.DataModel.DBCBaseResponse" name="Deluxe.DeluxeBrandCenter.AMM.Domain.DataModel.DBCBaseResponse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,296,97"/>
+<area shape="rect" id="Node000002" href="$d1/dac/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_data_model_1_1_d_b_c_accounting_units_response.html" title=" " alt="" coords="347,5,613,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="311,53,346,49,347,54,311,59"/>
+<area shape="rect" id="Node000003" href="$dc/df5/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_d_b_c_users_response.html" title=" " alt="" coords="344,88,616,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="312,94,344,98,343,103,311,99"/>
+</map>

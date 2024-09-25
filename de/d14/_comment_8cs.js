@@ -1,0 +1,5 @@
+var _comment_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Domain.ViewModel.CampaignBuilder.Comment", "d8/d2a/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_campaign_builder_1_1_comment.html", "d8/d2a/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_campaign_builder_1_1_comment" ],
+    [ "Deluxe.DeluxeBrandCenter.AMM.Domain.ViewModel.CampaignBuilder.PreviewDescription", "d4/d88/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_campaign_builder_1_1_preview_description.html", "d4/d88/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_campaign_builder_1_1_preview_description" ]
+];

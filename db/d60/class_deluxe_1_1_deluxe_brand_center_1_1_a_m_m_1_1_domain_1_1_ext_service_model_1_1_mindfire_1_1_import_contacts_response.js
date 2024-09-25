@@ -1,0 +1,25 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response =
+[
+    [ "ImportContactsResponse", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#a99732b07f18bfd1db00d0574b89b1213", null ],
+    [ "CsvRecords", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#a7c385813389ed44fb6ff604e4c12a158", null ],
+    [ "ExportColumns", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#aa51e39300690aa1560009ecd70d27e52", null ],
+    [ "FileName", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#a4c95fcc2afe1be55b43b301c055cd927", null ],
+    [ "Filterable", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#a93bfa64cff3174df02c25ff27893825b", null ],
+    [ "FtpPassword", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#a9e93d2587106586f60b0a20e6112ab15", null ],
+    [ "FtpUrl", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#adff7a1fae3f2ffc81fc49cb2f2bed95d", null ],
+    [ "FtpUsername", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#a8d42b4fbbf46c71436ad887e15a43394", null ],
+    [ "ID", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#a0a354e3f791b48a0f00c616ad214b6a1", null ],
+    [ "LastUpdate", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#a8a2f872c00bdba0f2ee3a7be9ab20fc3", null ],
+    [ "Mapping", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#a1e895909b4ca800d51aa54abb9905bf3", null ],
+    [ "Mode", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#ae45bab5463c507118383502a1d4d31b6", null ],
+    [ "Name", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#a2916d9a562bce5b0a7d82c23fc1d38e1", null ],
+    [ "NotificationEmail", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#afb8009b57aefd2d9e74565e23c3ba5ab", null ],
+    [ "ProcessedRecords", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#ab65be8a26d685ed953302aa93a3c29b6", null ],
+    [ "ProcessEndDate", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#a1781f2c71fa7289afde7f88c93aaa230", null ],
+    [ "ProcessStartDate", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#a1ff059353062fa49da8bd4447f926d5b", null ],
+    [ "RejectedRecords", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#ada75c3fbcb81249f3e282d21bca66677", null ],
+    [ "Result", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#a924efe2e2a48b36f03c4d333a5d99401", null ],
+    [ "Status", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#ad29594f70e1693e71e233db6e973ef1a", null ],
+    [ "SubmitDate", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#a571dd2d1e0580f2f408d70079939fd5b", null ],
+    [ "SuccessfulRecords", "db/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_import_contacts_response.html#ab3322fa29cfa019be0480fa33ed347d6", null ]
+];

@@ -1,0 +1,13 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.AddOrUpdateContactGroup" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.AddOrUpdateContactGroup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,96,239,155"/>
+<area shape="rect" id="Node000002" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#aacae5406cf025bf160825b800afd0187" title=" " alt="" coords="306,55,540,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,107,290,99,291,105,239,112"/>
+<area shape="rect" id="Node000006" href="$d3/d96/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_i_application_db_context.html#a8a659fe1e536a2f0e3016e7ef8f62622" title=" " alt="" coords="287,137,559,196"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="239,139,272,143,271,149,239,144"/>
+<area shape="rect" id="Node000003" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#aaf5fab01124fe2f97edfbdc8de938b1a" title=" " alt="" coords="620,13,853,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="540,66,604,57,605,63,540,71"/>
+<area shape="rect" id="Node000005" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#aaac0af72e9b32df926d2afea555e1e34" title=" " alt="" coords="607,96,866,155"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="540,97,592,104,591,109,540,102"/>
+<area shape="rect" id="Node000004" href="$d8/d59/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_segmentation_filter_criteria.html#afc4d845e0553321f921936781a3609f0" title=" " alt="" coords="914,5,1173,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="854,40,899,40,899,45,854,45"/>
+</map>

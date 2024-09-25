@@ -1,0 +1,10 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.CampaignBuilderService.MapXMLToSocialElement" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.CampaignBuilderService.MapXMLToSocialElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,242,97"/>
+<area shape="rect" id="Node000002" href="$d5/da1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_util.html#af372b5defd8a37284b822c7b0b1a49f7" title=" " alt="" coords="588,5,803,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,58,573,39,574,44,242,64"/>
+<area shape="rect" id="Node000003" href="$d6/d65/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_campaign_builder_service.html#aa547f128337d386d430cdb3079f2d4c3" title=" " alt="" coords="290,72,526,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,79,275,83,274,88,242,85"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="526,71,573,60,574,66,527,77"/>
+<area shape="rect" id="Node000004" href="$df/db6/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_i_amazon_s3_service.html#ad8b9fc7f361abef30885bd62c0cca386" title=" " alt="" coords="574,88,817,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="527,105,559,107,558,112,526,111"/>
+</map>

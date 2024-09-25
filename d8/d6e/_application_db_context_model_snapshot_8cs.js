@@ -1,0 +1,4 @@
+var _application_db_context_model_snapshot_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.ApplicationDbContextModelSnapshot", "df/d9b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_143ee0339b37f1a42cfd23dc07f8ac048.html", "df/d9b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_143ee0339b37f1a42cfd23dc07f8ac048" ]
+];

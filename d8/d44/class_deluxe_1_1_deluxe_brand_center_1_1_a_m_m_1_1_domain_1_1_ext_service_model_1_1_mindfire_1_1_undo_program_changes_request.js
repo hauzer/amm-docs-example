@@ -1,0 +1,4 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_undo_program_changes_request =
+[
+    [ "UndoProgramChangesRequest", "d8/d44/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_undo_program_changes_request.html#a6927678ae2010fdb7ec4c4e80b2082ab", null ]
+];

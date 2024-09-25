@@ -1,0 +1,4 @@
+var _template_thumbnail_overlay_model_configuration_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.EntityConfiguration.TemplateThumbnailOverlayModelConfiguration", "da/d5e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confif055add8a0ee563a9141a04001186f75.html", "da/d5e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confif055add8a0ee563a9141a04001186f75" ]
+];

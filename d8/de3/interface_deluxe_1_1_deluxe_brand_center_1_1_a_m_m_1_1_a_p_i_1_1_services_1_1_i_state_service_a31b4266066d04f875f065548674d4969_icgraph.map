@@ -1,0 +1,17 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.IStateService.GetStates" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.IStateService.GetStates">
+<area shape="rect" id="Node000001" title=" " alt="" coords="867,171,1088,229"/>
+<area shape="rect" id="Node000002" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a6b3cb62fedd89a5b7c82e4c21859750f" title=" " alt="" coords="577,47,810,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="910,165,818,120,789,108,791,103,820,115,913,160"/>
+<area shape="rect" id="Node000006" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#ab308541a7dfc0ce6c37951b978981a75" title=" " alt="" coords="568,129,819,188"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="852,184,820,180,820,174,852,179"/>
+<area shape="rect" id="Node000007" href="$d4/dfa/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_controllers_1_1_utility_controller.html#a71948d039969e96090dbcd9da79d2122" title="Get a list of all Canadian provinces." alt="" coords="572,212,815,271"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="852,221,816,226,815,221,852,216"/>
+<area shape="rect" id="Node000008" href="$d4/dfa/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_controllers_1_1_utility_controller.html#a90813aa9f17eb4d1bdf803c08a1b6ff7" title="Get a list of all States." alt="" coords="572,295,815,353"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="913,240,820,285,791,297,789,292,818,280,910,235"/>
+<area shape="rect" id="Node000003" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#aa1fe050e4d5227a691150b9849f7b1a3" title=" " alt="" coords="287,47,520,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="561,79,521,79,521,73,561,73"/>
+<area shape="rect" id="Node000004" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a7f6af03e51f7bb3b4b003c2296015349" title=" " alt="" coords="5,5,239,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="271,59,239,54,240,49,272,54"/>
+<area shape="rect" id="Node000005" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a9fed8bce1aa679c38c8e729ee735ca5f" title=" " alt="" coords="5,88,239,147"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="272,98,240,103,239,98,271,93"/>
+</map>

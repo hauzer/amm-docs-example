@@ -1,0 +1,5 @@
+var _sales_force_custom_field_admin_v_m_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Domain.ViewModel.SalesForceCustomFieldAdminVM", "d9/d65/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_sales_force_custom_field_admin_v_m.html", "d9/d65/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_sales_force_custom_field_admin_v_m" ],
+    [ "Deluxe.DeluxeBrandCenter.AMM.Domain.ViewModel.SalesForceMetadataVM", "db/df2/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_sales_force_metadata_v_m.html", "db/df2/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_sales_force_metadata_v_m" ]
+];

@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.ApplicationDbContext" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.ApplicationDbContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="447,120,715,179"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,299,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="314,90,447,118,446,124,313,95"/>
+<area shape="rect" id="Node000003" href="$d3/d96/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_i_application_db_context.html" title=" " alt="" coords="76,136,228,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,147,446,147,446,152,244,152"/>
+<area shape="rect" id="Node000004" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html" title=" " alt="" coords="24,187,280,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="295,186,446,165,447,170,295,191"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Social.TwitterService.SaveCredentials" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Social.TwitterService.SaveCredentials">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,222,105"/>
+<area shape="rect" id="Node000002" href="$de/d3c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_twitter_service.html#aca01d3ff04915fe7606aebf2b03a42f7" title=" " alt="" coords="296,5,512,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,58,280,50,281,55,222,63"/>
+<area shape="rect" id="Node000004" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a92bd6d01c18ab350b60414ec6991a32d" title=" " alt="" coords="270,88,538,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="222,89,255,93,254,99,222,94"/>
+<area shape="rect" id="Node000003" href="$de/d3c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_twitter_service.html#a0e855ed9e6ee80a750077f33713840bd" title=" " alt="" coords="612,5,828,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="512,32,596,32,596,37,512,37"/>
+<area shape="rect" id="Node000005" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#aea43a5ab4bb779ccf8678ef7aac5be0c" title=" " alt="" coords="586,88,854,147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="539,115,570,115,570,120,539,120"/>
+<area shape="rect" id="Node000006" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a5a50b059decefb01e96a92bc29bcd3e6" title=" " alt="" coords="902,88,1171,147"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="855,115,886,115,886,120,855,120"/>
+</map>

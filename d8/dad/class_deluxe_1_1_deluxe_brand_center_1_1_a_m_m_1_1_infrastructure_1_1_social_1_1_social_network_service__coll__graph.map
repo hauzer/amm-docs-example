@@ -1,0 +1,21 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Social.SocialNetworkService" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Social.SocialNetworkService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="894,220,1107,279"/>
+<area shape="rect" id="Node000002" href="$da/d0c/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_i_social_network_service.html" title=" " alt="" coords="504,87,658,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="674,113,716,123,795,145,871,175,952,217,949,222,869,180,793,150,714,128,673,118"/>
+<area shape="rect" id="Node000003" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html" title=" " alt="" coords="447,137,715,196"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="731,193,894,226,893,231,730,199"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,299,112"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="314,97,462,134,461,139,313,102"/>
+<area shape="rect" id="Node000005" href="$d3/d96/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_i_application_db_context.html" title=" " alt="" coords="76,136,228,163"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="244,150,446,159,446,164,244,156"/>
+<area shape="rect" id="Node000006" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html" title=" " alt="" coords="24,187,280,229"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="295,192,446,177,447,182,295,197"/>
+<area shape="rect" id="Node000007" href="$db/d7e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_client_db_context.html" title=" " alt="" coords="462,220,700,279"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="716,247,893,247,893,252,716,252"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="110,253,194,280"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="210,262,461,251,461,257,210,267"/>
+<area shape="rect" id="Node000009" href="$d3/d78/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_p_m_s_1_1_i_persona_microservice.html" title=" " alt="" coords="470,303,692,361"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="707,305,893,268,894,273,708,310"/>
+<area shape="rect" id="Node000010" href="$da/dd6/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_i_send_email_service.html" title=" " alt="" coords="460,385,702,444"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="706,378,787,351,869,319,949,277,952,282,871,324,789,356,708,383"/>
+</map>

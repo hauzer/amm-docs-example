@@ -1,0 +1,13 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Social.SocialNetworkService.CheckRefreshTokenForWarning" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Social.SocialNetworkService.CheckRefreshTokenForWarning">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,171,309,229"/>
+<area shape="rect" id="Node000002" href="$d0/db3/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_i_linkedin_service.html#a54b3fd05461ea8a442a2c9f9115dc05c" title=" " alt="" coords="357,5,610,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,168,270,121,355,74,368,68,371,73,358,78,273,125,201,172"/>
+<area shape="rect" id="Node000003" href="$d3/d78/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_p_m_s_1_1_i_persona_microservice.html#aaac0d5c632bb08eec28d1a628d6ea5e2" title=" " alt="" coords="372,88,594,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,167,356,147,358,152,276,173"/>
+<area shape="rect" id="Node000004" href="$d7/d5a/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_social_network_service.html#a3f70abef72d83fe91c7ca28ef5f547c7" title=" " alt="" coords="377,171,590,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="309,197,361,197,361,203,309,203"/>
+<area shape="rect" id="Node000005" href="$d7/d5a/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_social_network_service.html#a7dc642e27e2b56d23c95c6b9785d2f92" title=" " alt="" coords="377,253,590,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="276,227,362,249,361,255,275,233"/>
+<area shape="rect" id="Node000006" href="$da/dd6/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_i_send_email_service.html#aab8d80dedde4887e035ba39f80308806" title=" " alt="" coords="362,336,604,395"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="201,228,273,275,358,322,371,327,368,332,355,326,270,279,198,232"/>
+</map>

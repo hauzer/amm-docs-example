@@ -1,0 +1,4 @@
+var 20191126122032___facebook_account_8_designer_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.FacebookAccount", "d7/dbd/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_facebook_account.html", "d7/dbd/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_facebook_account" ]
+];

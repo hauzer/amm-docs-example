@@ -1,0 +1,10 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Domain.DataModel.BaseEntity" name="Deluxe.DeluxeBrandCenter.AMM.Domain.DataModel.BaseEntity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,242,197"/>
+<area shape="rect" id="Node000002" href="$d6/df6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_data_model_1_1_modified_entity.html" title=" " alt="" coords="11,80,116,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,118,110,153,106,156,80,121"/>
+<area shape="rect" id="Node000003" href="$d6/dad/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_data_model_1_1_interface_1_1_i_modified.html" title=" " alt="" coords="86,5,161,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,46,76,81,72,78,101,42"/>
+<area shape="rect" id="Node000004" href="$d5/d26/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_data_model_1_1_interface_1_1_i_base_entity.html" title=" " alt="" coords="140,80,230,107"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="146,42,176,78,172,81,142,46"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,121,141,156,137,153,164,118"/>
+</map>

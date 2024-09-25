@@ -1,0 +1,17 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Tests.Mocks.IMockCampaignBuilderService" name="Deluxe.DeluxeBrandCenter.AMM.Tests.Mocks.IMockCampaignBuilderService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1423,44,1694,103"/>
+<area shape="rect" id="Node000008" href="$d3/d00/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_mocks_1_1_mock_campaign_builder_service.html" title=" " alt="" coords="1743,44,2009,103"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1709,71,1742,71,1742,76,1709,76"/>
+<area shape="rect" id="Node000002" href="$d6/d35/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_campaign_builder_service.html" title=" " alt="" coords="1184,25,1352,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1368,48,1423,55,1423,60,1367,53"/>
+<area shape="rect" id="Node000003" href="$d3/dac/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_named_db_service.html" title=" " alt="" coords="723,13,955,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="970,33,1183,35,1183,41,970,39"/>
+<area shape="rect" id="Node000004" href="$d3/dac/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_named_db_service.html" title=" " alt="" coords="201,5,445,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="460,32,723,32,723,37,460,37"/>
+<area shape="rect" id="Node000005" href="$d3/ddb/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_d_b_service.html" title=" " alt="" coords="5,13,152,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="167,32,201,32,201,37,167,37"/>
+<area shape="rect" id="Node000006" href="$d9/dbf/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_mocks_1_1_i_mock_service.html" title=" " alt="" coords="1162,80,1374,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1389,87,1423,84,1423,89,1390,92"/>
+<area shape="rect" id="Node000007" href="$d9/dbf/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_mocks_1_1_i_mock_service.html" title=" " alt="" coords="731,80,947,139"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="963,104,1161,101,1161,106,963,110"/>
+</map>

@@ -1,0 +1,4 @@
+var 20190322121009___m_f_master_account_id_by_client_8_designer_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.ClientDb.MFMasterAccountIdByClient", "df/d45/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_13a15953fb9a20c374d6874bf80be6963.html", "df/d45/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_13a15953fb9a20c374d6874bf80be6963" ]
+];

@@ -1,0 +1,4 @@
+var _contact_group_configuration_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.EntityConfiguration.ContactGroupConfiguration", "dd/de4/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confi15a9cbcf8e7b631ce6c16bf8af220bcc.html", "dd/de4/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confi15a9cbcf8e7b631ce6c16bf8af220bcc" ]
+];

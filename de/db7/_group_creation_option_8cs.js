@@ -1,0 +1,4 @@
+var _group_creation_option_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Domain.ViewModel.ContactManager.GroupCreationOption", "d5/d5b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_contact_manager_1_1_group_creation_option.html", "d5/d5b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_contact_manager_1_1_group_creation_option" ]
+];

@@ -1,0 +1,5 @@
+var _contact_service_m_f_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Mindfire.IContactServiceMF", "dc/d23/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_contact_service_m_f.html", "dc/d23/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_contact_service_m_f" ],
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Mindfire.ContactServiceMF", "d5/d64/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_contact_service_m_f.html", "d5/d64/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_contact_service_m_f" ]
+];

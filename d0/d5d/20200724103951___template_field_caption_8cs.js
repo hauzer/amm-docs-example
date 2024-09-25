@@ -1,0 +1,4 @@
+var 20200724103951___template_field_caption_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.TemplateFieldCaption", "d6/d50/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_template_field_caption.html", "d6/d50/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_template_field_caption" ]
+];

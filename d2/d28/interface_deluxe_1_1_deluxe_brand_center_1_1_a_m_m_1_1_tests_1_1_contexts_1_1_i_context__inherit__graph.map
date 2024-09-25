@@ -1,0 +1,17 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Tests.Contexts.IContext" name="Deluxe.DeluxeBrandCenter.AMM.Tests.Contexts.IContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,205,99"/>
+<area shape="rect" id="Node000002" href="$db/d0e/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_contexts_1_1_i_service_result_context.html" title=" " alt="" coords="254,48,489,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,75,254,75,254,80,220,80"/>
+<area shape="rect" id="Node000003" href="$db/d0e/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_contexts_1_1_i_service_result_context.html" title=" " alt="" coords="672,5,908,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="505,61,672,44,672,49,505,66"/>
+<area shape="rect" id="Node000006" href="$db/d0e/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_contexts_1_1_i_service_result_context.html" title=" " alt="" coords="672,88,908,147"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="505,87,672,103,672,109,505,93"/>
+<area shape="rect" id="Node000004" href="$da/df2/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_2f18dc163dd089abe0f2cf7e07d5038f.html" title=" " alt="" coords="964,5,1228,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="923,32,964,32,964,37,923,37"/>
+<area shape="rect" id="Node000005" href="$d2/dbb/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca05f46e50c738fb665c61f8020538b2b1.html" title=" " alt="" coords="1293,5,1555,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1244,32,1292,32,1292,37,1244,37"/>
+<area shape="rect" id="Node000007" href="$db/d12/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_domain_1_1_utility_1_76b318b4f71d8f2707abcd31fd82fb97.html" title=" " alt="" coords="957,88,1235,147"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="923,115,957,115,957,120,923,120"/>
+<area shape="rect" id="Node000008" href="$dd/db7/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_domain_1_1_utility_1_1_c_9e1da55c1716c0c56a2dfea9a875d277.html" title=" " alt="" coords="1285,88,1563,147"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1251,115,1284,115,1284,120,1251,120"/>
+</map>

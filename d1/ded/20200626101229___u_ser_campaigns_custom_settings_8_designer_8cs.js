@@ -1,0 +1,4 @@
+var 20200626101229___u_ser_campaigns_custom_settings_8_designer_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.USerCampaignsCustomSettings", "d4/d9c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1368dbb0bf20e7f2ad189f5a98aa83e66.html", "d4/d9c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1368dbb0bf20e7f2ad189f5a98aa83e66" ]
+];

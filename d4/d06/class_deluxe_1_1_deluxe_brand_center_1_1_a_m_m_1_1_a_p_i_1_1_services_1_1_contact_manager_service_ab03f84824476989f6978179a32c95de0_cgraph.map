@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.GetContactAssociatedGroups" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.GetContactAssociatedGroups">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,249,105"/>
+<area shape="rect" id="Node000002" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#ae7618339ba0daff9f3a44d8e441e4127" title=" " alt="" coords="310,5,543,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,57,294,50,295,56,249,62"/>
+<area shape="rect" id="Node000004" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#aaac0af72e9b32df926d2afea555e1e34" title=" " alt="" coords="297,88,556,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="249,90,281,95,281,100,249,95"/>
+<area shape="rect" id="Node000003" href="$d5/d30/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_contact_manager_1_1_associated_group_v_m.html#ab035df970a63d79c3a8578af8a01786d" title=" " alt="" coords="604,5,905,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="543,32,589,32,589,37,543,37"/>
+</map>

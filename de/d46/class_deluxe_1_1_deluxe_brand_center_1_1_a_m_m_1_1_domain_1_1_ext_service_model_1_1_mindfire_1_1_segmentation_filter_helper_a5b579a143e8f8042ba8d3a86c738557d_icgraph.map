@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Domain.ExtServiceModel.Mindfire.SegmentationFilterHelper.GenerateEqualFilter" name="Deluxe.DeluxeBrandCenter.AMM.Domain.ExtServiceModel.Mindfire.SegmentationFilterHelper.GenerateEqualFilter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="299,88,586,147"/>
+<area shape="rect" id="Node000002" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#aab42ea45768418dcf29fabe521d8b577" title=" " alt="" coords="11,5,245,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="313,86,242,67,243,62,314,81"/>
+<area shape="rect" id="Node000003" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a619cc4b0feff32ead048acb292ab8e82" title=" " alt="" coords="11,88,245,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,120,245,120,245,115,283,115"/>
+<area shape="rect" id="Node000004" href="$d1/d82/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_controllers_1_1_contact_manager_controller.html#aafe5392a36a8b1db317f1bb562423e38" title="Download contacts that contain the tag." alt="" coords="5,171,251,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="314,154,243,173,242,167,313,149"/>
+</map>

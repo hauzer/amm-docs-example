@@ -1,0 +1,6 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1368dbb0bf20e7f2ad189f5a98aa83e66 =
+[
+    [ "BuildTargetModel", "d4/d9c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1368dbb0bf20e7f2ad189f5a98aa83e66.html#a833ecf762614b8c6bab85a1e705aaf64", null ],
+    [ "Down", "d4/d9c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1368dbb0bf20e7f2ad189f5a98aa83e66.html#adb1e07cfe05b0dfaa0a695ff47f6087f", null ],
+    [ "Up", "d4/d9c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1368dbb0bf20e7f2ad189f5a98aa83e66.html#a50f732a5f5f6056733989871aad191a8", null ]
+];

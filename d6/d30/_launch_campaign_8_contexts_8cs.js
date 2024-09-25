@@ -1,0 +1,5 @@
+var _launch_campaign_8_contexts_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Tests.SUT.API.Services.CampaignBuilderService.LaunchCampaign.IContext", "da/df2/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_2f18dc163dd089abe0f2cf7e07d5038f.html", "da/df2/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_2f18dc163dd089abe0f2cf7e07d5038f" ],
+    [ "Deluxe.DeluxeBrandCenter.AMM.Tests.SUT.API.Services.CampaignBuilderService.LaunchCampaign.Context", "d2/dbb/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca05f46e50c738fb665c61f8020538b2b1.html", "d2/dbb/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca05f46e50c738fb665c61f8020538b2b1" ]
+];

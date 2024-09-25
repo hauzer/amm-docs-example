@@ -1,0 +1,18 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Domain.ITableReader&lt; T &gt;" name="Deluxe.DeluxeBrandCenter.AMM.Domain.ITableReader&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,219,89"/>
+<area shape="rect" id="Node000002" href="$d8/d96/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_table.html" title="Interface implements ITableReader, ITableWriter, ITableEditor." alt="" coords="268,47,452,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,65,268,65,268,71,234,71"/>
+<area shape="rect" id="Node000003" href="$d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html" title=" " alt="" coords="560,5,745,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,50,559,37,560,42,468,55"/>
+<area shape="rect" id="Node000008" href="$d8/d96/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_table.html" title=" " alt="" coords="769,64,965,107"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="468,69,476,69,768,79,768,85,476,75,467,74"/>
+<area shape="rect" id="Node000004" href="$d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html" title=" " alt="" coords="989,5,1181,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="760,24,989,24,989,29,760,29"/>
+<area shape="rect" id="Node000005" href="$d0/d2a/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_c_s_v_table.html" title=" " alt="" coords="1231,48,1432,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1197,43,1231,49,1230,54,1196,49"/>
+<area shape="rect" id="Node000006" href="$d8/d92/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_activity_c_s_v_table.html" title=" " alt="" coords="1482,15,1728,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1447,53,1482,48,1482,54,1448,58"/>
+<area shape="rect" id="Node000007" href="$dd/d19/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_contact_c_s_v_table.html" title=" " alt="" coords="1481,81,1729,124"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="1448,81,1481,85,1481,90,1447,86"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="980,79,1230,70,1230,75,981,84"/>
+</map>

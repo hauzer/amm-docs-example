@@ -1,0 +1,11 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Social.SocialNetworkService.UnlinkFromSocial" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Social.SocialNetworkService.UnlinkFromSocial">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,227,188"/>
+<area shape="rect" id="Node000002" href="$d0/db3/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_i_linkedin_service.html#a7caec81cecbf500e1068151cdaa9691e" title=" " alt="" coords="275,5,504,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,126,274,74,287,68,289,73,276,78,171,131"/>
+<area shape="rect" id="Node000003" href="$dd/d77/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_i_twitter_service.html#ad6ca3cd8d734063756c0944804040d6e" title=" " alt="" coords="279,88,500,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,139,263,134,264,139,227,145"/>
+<area shape="rect" id="Node000004" href="$d0/db3/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_i_linkedin_service.html#ae4af9538559dc88324ca7cf71aab7fba" title=" " alt="" coords="275,171,504,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="227,173,259,178,259,183,227,178"/>
+<area shape="rect" id="Node000005" href="$dd/d77/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_i_twitter_service.html#ab9abd9e79cf79feee9d1a3b140e5efff" title=" " alt="" coords="279,253,500,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="171,186,276,239,289,245,287,250,274,244,169,191"/>
+</map>

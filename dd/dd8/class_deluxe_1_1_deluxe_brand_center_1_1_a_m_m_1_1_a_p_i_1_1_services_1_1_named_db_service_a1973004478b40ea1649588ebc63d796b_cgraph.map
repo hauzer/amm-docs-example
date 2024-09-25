@@ -1,0 +1,10 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.NamedDbService.Update" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.NamedDbService.Update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,250,131"/>
+<area shape="rect" id="Node000002" href="$d3/d96/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_i_application_db_context.html#aed14c2bb69c07bf938cb742595204d35" title=" " alt="" coords="298,5,570,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,72,282,65,283,70,251,77"/>
+<area shape="rect" id="Node000003" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#a31fd07938dc12b3d600f3bd500d3aacd" title=" " alt="" coords="618,101,877,160"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,104,603,121,602,126,250,110"/>
+<area shape="rect" id="Node000004" href="$d6/d4e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_d_b_service.html#afe2cfea5a2d80d175eb77eed44f64d1c" title=" " alt="" coords="314,139,554,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="251,122,304,133,303,138,250,127"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="554,146,602,142,602,147,555,151"/>
+</map>

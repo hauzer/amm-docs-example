@@ -1,0 +1,14 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.AddGroupsAndTagsToDb" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.AddGroupsAndTagsToDb">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,239,176"/>
+<area shape="rect" id="Node000002" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a3b76c744327f7ab88edec35ccf52635d" title=" " alt="" coords="287,21,520,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,114,300,83,302,88,211,119"/>
+<area shape="rect" id="Node000004" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#acfcf18f3c8f0b4e9c334223ec33b588f" title=" " alt="" coords="574,88,834,147"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="239,138,559,122,559,127,239,143"/>
+<area shape="rect" id="Node000005" href="$d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#aec63c5179a35ee90ad13d60fbd19303e" title=" " alt="" coords="311,155,496,197"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="239,156,295,162,295,167,239,162"/>
+<area shape="rect" id="Node000006" href="$d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a16e661cd62aceaa49f099a1454be6a2d" title=" " alt="" coords="292,221,515,264"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="198,174,288,207,309,214,308,219,286,212,196,179"/>
+<area shape="rect" id="Node000003" href="$d3/d96/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_i_application_db_context.html#a8a659fe1e536a2f0e3016e7ef8f62622" title=" " alt="" coords="568,5,840,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="520,42,552,40,553,45,521,47"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="521,74,560,83,559,88,520,79"/>
+</map>

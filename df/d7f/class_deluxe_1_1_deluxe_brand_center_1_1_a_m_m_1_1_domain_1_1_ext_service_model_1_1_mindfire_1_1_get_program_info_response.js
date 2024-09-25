@@ -1,0 +1,5 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_get_program_info_response =
+[
+    [ "Campaigns", "df/d7f/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_get_program_info_response.html#ae5f71098f68ed890fb6e5fffd630ac6a", null ],
+    [ "Result", "df/d7f/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_get_program_info_response.html#a4a8f7d05160b567cb3d4c019997b18da", null ]
+];

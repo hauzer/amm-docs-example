@@ -1,0 +1,4 @@
+var namespace_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_mapper =
+[
+    [ "AutoMapperDefaultConfiguration", "d5/df4/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_mapper_1_1_auto_mapper_default_configuration.html", "d5/df4/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_mapper_1_1_auto_mapper_default_configuration" ]
+];

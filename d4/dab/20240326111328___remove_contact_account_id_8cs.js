@@ -1,0 +1,4 @@
+var 20240326111328___remove_contact_account_id_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.RemoveContactAccountId", "d2/d2f/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_remove_contact_account_id.html", "d2/d2f/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_remove_contact_account_id" ]
+];

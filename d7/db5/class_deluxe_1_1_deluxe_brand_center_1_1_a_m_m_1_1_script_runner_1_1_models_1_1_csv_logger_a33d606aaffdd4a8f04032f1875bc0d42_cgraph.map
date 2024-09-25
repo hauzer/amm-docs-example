@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.ScriptRunner.Models.CsvLogger.Log" name="Deluxe.DeluxeBrandCenter.AMM.ScriptRunner.Models.CsvLogger.Log">
+<area shape="rect" id="Node000001" title="Adds log object to cache. If cache is full, it will be appended to file and cleared." alt="" coords="5,13,276,56"/>
+<area shape="rect" id="Node000002" href="$d7/db5/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_models_1_1_csv_logger.html#a97659b1daa3b86a4388fc3eb0c9d0c84" title=" " alt="" coords="324,13,605,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,32,308,32,308,37,276,37"/>
+<area shape="rect" id="Node000003" href="$d7/db5/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_models_1_1_csv_logger.html#a1ec48479b051f2785dd41a83b3803711" title=" " alt="" coords="653,13,932,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="605,32,637,32,637,37,605,37"/>
+<area shape="rect" id="Node000004" href="$d7/db5/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_models_1_1_csv_logger.html#a042bd0101be154aa1275bc2d93a84de1" title=" " alt="" coords="980,5,1230,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="933,32,965,32,965,37,933,37"/>
+</map>

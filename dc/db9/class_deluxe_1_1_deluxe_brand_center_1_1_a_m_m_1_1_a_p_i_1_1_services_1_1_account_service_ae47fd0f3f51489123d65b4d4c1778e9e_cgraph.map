@@ -1,0 +1,38 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.AccountService.RegisterAdvisor" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.AccountService.RegisterAdvisor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,253,239,312"/>
+<area shape="rect" id="Node000002" href="$d5/d2b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_data_model_1_1_client_1_1_user.html#aed8826e2ed158191bf83cea2b1a76c4f" title=" " alt="" coords="304,5,546,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,252,161,211,194,164,236,115,285,74,292,70,295,74,288,78,240,119,198,167,165,214,141,254"/>
+<area shape="rect" id="Node000003" href="$d5/d2b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_data_model_1_1_client_1_1_user.html#a7c2d40c975d81d6ab2a40ae009f4d7f4" title=" " alt="" coords="304,88,546,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,251,213,203,285,156,297,151,299,156,288,161,216,207,157,255"/>
+<area shape="rect" id="Node000004" href="$dc/db9/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_account_service.html#a3fd50a754a74e48351249c2c86419651" title=" " alt="" coords="308,171,542,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,250,299,231,301,237,233,255"/>
+<area shape="rect" id="Node000005" href="$dc/db9/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_account_service.html#a0131ec5826403c03945c1cab1ec2153c" title=" " alt="" coords="308,253,542,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="239,280,293,280,293,285,239,285"/>
+<area shape="rect" id="Node000011" href="$dc/db9/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_account_service.html#aab5e5f4f159724b2d4a8059499f33bad" title=" " alt="" coords="287,419,563,477"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="157,311,216,358,288,404,299,410,297,414,285,409,213,363,154,315"/>
+<area shape="rect" id="Node000013" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a92bd6d01c18ab350b60414ec6991a32d" title=" " alt="" coords="935,452,1204,511"/>
+<area shape="poly" id="edge19_Node000001_Node000013" title=" " alt="" coords="139,311,161,354,193,403,236,451,261,471,288,487,370,519,457,539,546,550,636,552,722,547,804,538,945,512,946,517,805,543,723,553,636,557,546,555,456,545,369,524,286,492,258,475,232,455,189,407,156,357,134,314"/>
+<area shape="rect" id="Node000017" href="$dc/db9/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_account_service.html#a23c6273daa8f4761e7b257a9d0d510c0" title=" " alt="" coords="287,336,563,395"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="233,310,301,329,299,334,231,315"/>
+<area shape="rect" id="Node000006" href="$da/d31/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_request_credentials.html#a9cedb033f2ce48e7edaf18068a78b4f5" title=" " alt="" coords="620,88,878,147"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="541,253,561,239,578,220,584,199,592,178,609,157,614,153,617,157,613,161,596,180,590,201,582,222,565,243,544,257"/>
+<area shape="rect" id="Node000007" href="$dc/db9/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_account_service.html#a02f134321d39745f10b489bf7fcdfc30" title=" " alt="" coords="632,171,866,229"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="541,250,617,231,618,236,543,256"/>
+<area shape="rect" id="Node000009" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#a74b7c3e39306365972dba285fd95eddc" title=" " alt="" coords="620,253,879,312"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="542,280,604,280,604,285,542,285"/>
+<area shape="rect" id="Node000010" href="$d2/dd7/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_mindfire_service.html#a19e21a2222a8d5c03cd9a6ca06102400" title=" " alt="" coords="632,5,867,64"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="540,256,561,239,576,220,583,200,584,159,586,117,593,95,609,74,617,67,620,71,613,78,598,98,591,118,590,159,588,201,581,222,565,243,543,260"/>
+<area shape="rect" id="Node000008" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#a16cd71fc18c3e958b6941b30021b2ddb" title=" " alt="" coords="940,171,1199,229"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="866,197,924,197,924,203,866,203"/>
+<area shape="rect" id="Node000012" href="$dc/db9/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_account_service.html#a3eeabb0ad01853e571664879ebdf71c4" title=" " alt="" coords="611,419,887,477"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="564,445,595,445,595,451,564,451"/>
+<area shape="rect" id="Node000016" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#a31fd07938dc12b3d600f3bd500d3aacd" title=" " alt="" coords="620,336,879,395"/>
+<area shape="poly" id="edge15_Node000011_Node000016" title=" " alt="" coords="542,415,616,397,617,402,543,421"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="888,460,920,463,920,468,888,465"/>
+<area shape="rect" id="Node000014" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#aea43a5ab4bb779ccf8678ef7aac5be0c" title=" " alt="" coords="1252,452,1520,511"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1204,479,1236,479,1236,484,1204,484"/>
+<area shape="rect" id="Node000015" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a5a50b059decefb01e96a92bc29bcd3e6" title=" " alt="" coords="1568,452,1836,511"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1521,479,1552,479,1552,484,1521,484"/>
+<area shape="poly" id="edge17_Node000017_Node000012" title=" " alt="" coords="543,393,617,412,616,417,542,398"/>
+<area shape="poly" id="edge18_Node000017_Node000016" title=" " alt="" coords="564,363,604,363,604,368,564,368"/>
+</map>

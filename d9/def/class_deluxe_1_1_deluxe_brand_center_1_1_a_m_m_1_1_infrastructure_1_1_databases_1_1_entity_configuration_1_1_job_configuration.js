@@ -1,0 +1,4 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_configuration_1_1_job_configuration =
+[
+    [ "Configure", "d9/def/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_configuration_1_1_job_configuration.html#ace17c28dcce51e0eb287ffc20ffdbf88", null ]
+];

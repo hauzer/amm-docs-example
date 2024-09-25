@@ -1,0 +1,45 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.DownloadGroupContactsCSV" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.DownloadGroupContactsCSV">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,204,249,263"/>
+<area shape="rect" id="Node000002" href="$db/d79/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_c_s_v_helper.html#aa206a9b49f7fdc7dbe7242f5c29fde52" title=" " alt="" coords="582,5,833,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,201,577,73,597,67,599,72,579,79,213,206"/>
+<area shape="rect" id="Node000003" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#ad5a6675a4bbdf499e765e18b3f2f71d3" title=" " alt="" coords="297,204,530,263"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,231,281,231,281,236,249,236"/>
+<area shape="rect" id="Node000006" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#acfcf18f3c8f0b4e9c334223ec33b588f" title=" " alt="" coords="2054,163,2313,221"/>
+<area shape="poly" id="edge24_Node000001_Node000006" title=" " alt="" coords="150,261,228,363,285,428,354,494,431,555,517,606,562,625,609,640,657,650,706,653,1608,653,1657,650,1705,640,1751,624,1795,604,1838,579,1879,551,1954,486,2021,417,2077,347,2122,284,2155,233,2159,236,2127,287,2081,351,2025,420,1958,490,1882,555,1841,584,1798,609,1753,629,1706,645,1658,655,1608,659,706,659,656,655,608,646,561,630,515,611,428,559,350,498,281,432,224,367,146,265"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="443,201,576,74,585,69,588,73,580,78,447,205"/>
+<area shape="rect" id="Node000004" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a22f946e29ca8db2aaea63a388be914be" title=" " alt="" coords="591,88,824,147"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="475,201,577,156,594,150,596,155,579,161,477,206"/>
+<area shape="rect" id="Node000007" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a15078488db9949c55dbf5ed4655f81bf" title="Get filtered List of Contacts." alt="" coords="591,171,824,229"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="530,217,575,212,576,218,531,223"/>
+<area shape="rect" id="Node000008" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#ab1141e6abe5397940a9170ec65047b69" title=" " alt="" coords="896,147,1129,205"/>
+<area shape="poly" id="edge13_Node000003_Node000008" title=" " alt="" coords="530,248,600,254,678,256,758,252,837,239,861,228,884,215,900,209,902,214,886,220,863,233,838,244,759,257,678,261,600,259,530,253"/>
+<area shape="rect" id="Node000012" href="$df/df6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_contact_v_m.html#ac8f49cc65f78a460aef97a4681cff6f8" title=" " alt="" coords="580,312,835,371"/>
+<area shape="poly" id="edge14_Node000003_Node000012" title=" " alt="" coords="496,261,612,304,610,309,495,266"/>
+<area shape="rect" id="Node000019" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#a0ec7d7d28fa63000ba8d1bea1960d1e0" title=" " alt="" coords="578,395,837,453"/>
+<area shape="poly" id="edge23_Node000003_Node000019" title=" " alt="" coords="442,261,501,321,539,353,579,380,589,385,586,390,577,385,536,357,498,325,438,265"/>
+<area shape="rect" id="Node000005" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a891d2dc0f2891c477b6eeeebfdef3f9c" title="Get Group from DB." alt="" coords="1490,80,1723,139"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="825,114,1475,108,1475,113,825,119"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="1724,115,1860,128,2006,148,2049,156,2048,161,2005,153,1859,133,1724,120"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="825,188,881,184,881,189,825,193"/>
+<area shape="rect" id="Node000009" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#af3ee320e832b5241f698ab94cadab7cb" title="Updates filter to exclude Unsubscribed and Ppersona Contacts." alt="" coords="1198,155,1432,213"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1130,176,1183,178,1183,183,1130,182"/>
+<area shape="rect" id="Node000010" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#af5c0313fcaae40d09f41022ef3f1d08d" title=" " alt="" coords="1490,163,1723,221"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1432,185,1474,186,1474,191,1432,190"/>
+<area shape="rect" id="Node000011" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a0d4bb3161a8ff399d0720dbb775430c3" title=" " alt="" coords="1771,163,2006,221"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1724,189,1756,189,1756,195,1724,195"/>
+<area shape="poly" id="edge12_Node000011_Node000006" title=" " alt="" coords="2006,189,2038,189,2038,195,2006,195"/>
+<area shape="rect" id="Node000013" href="$df/df6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_contact_v_m.html#a8b6890c9d50ade1bc06622bfb4a397df" title=" " alt="" coords="885,229,1140,288"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="818,309,886,290,887,295,819,314"/>
+<area shape="rect" id="Node000014" href="$df/df6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_contact_v_m.html#a1648649d5df1291a6fa3dd235ee21b09" title=" " alt="" coords="885,312,1140,371"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="835,339,870,339,870,344,835,344"/>
+<area shape="rect" id="Node000016" href="$df/df6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_contact_v_m.html#a2787dfbe0c788a6d93767b662f15d3f3" title=" " alt="" coords="885,395,1140,453"/>
+<area shape="poly" id="edge18_Node000012_Node000016" title=" " alt="" coords="819,369,887,387,886,393,818,374"/>
+<area shape="rect" id="Node000017" href="$df/df6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_contact_v_m.html#ab2d616d67804d24b74cdb693b7b68d87" title=" " alt="" coords="885,477,1140,536"/>
+<area shape="poly" id="edge19_Node000012_Node000017" title=" " alt="" coords="822,369,839,381,856,402,864,423,871,444,887,463,891,466,888,471,883,467,866,446,859,425,852,404,836,385,819,373"/>
+<area shape="rect" id="Node000018" href="$df/df6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_contact_v_m.html#afc5c1a69d032613fbd527a1a136d7905" title=" " alt="" coords="885,560,1140,619"/>
+<area shape="poly" id="edge21_Node000012_Node000018" title=" " alt="" coords="826,369,839,381,855,402,862,423,864,465,866,506,873,526,887,546,889,548,885,552,883,550,868,529,860,507,859,465,857,424,850,405,835,384,822,373"/>
+<area shape="rect" id="Node000015" href="$df/df6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_contact_v_m.html#a4084b5beb776ff091c16312cc8cddce3" title=" " alt="" coords="1188,477,1442,536"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="1115,369,1141,380,1210,422,1269,466,1266,470,1207,426,1138,385,1113,374"/>
+<area shape="poly" id="edge20_Node000017_Node000015" title=" " alt="" coords="1140,504,1172,504,1172,509,1140,509"/>
+<area shape="poly" id="edge22_Node000018_Node000015" title=" " alt="" coords="1122,557,1189,538,1191,543,1123,562"/>
+</map>

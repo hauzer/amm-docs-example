@@ -1,0 +1,20 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.ScriptRunner.Services.Scripts.UpdateRecurringSchedules" name="Deluxe.DeluxeBrandCenter.AMM.ScriptRunner.Services.Scripts.UpdateRecurringSchedules">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1156,256,1392,315"/>
+<area shape="rect" id="Node000002" href="$d9/d9b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_services_1_1_script.html" title=" " alt="" coords="763,79,982,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="956,142,1206,253,1204,258,954,146"/>
+<area shape="rect" id="Node000003" href="$d9/d9b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_services_1_1_script.html" title=" " alt="" coords="228,5,453,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="469,50,763,90,763,96,468,55"/>
+<area shape="rect" id="Node000004" href="$df/dfe/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_services_1_1_i_script.html" title=" " alt="" coords="5,21,145,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="160,32,228,32,228,37,160,37"/>
+<area shape="rect" id="Node000005" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html" title=" " alt="" coords="738,203,1007,261"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1022,249,1156,267,1155,272,1022,254"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="194,88,487,195"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="503,166,738,207,737,212,502,172"/>
+<area shape="rect" id="Node000007" href="$d3/d96/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_i_application_db_context.html" title=" " alt="" coords="264,219,417,245"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="432,229,738,229,738,235,432,235"/>
+<area shape="rect" id="Node000008" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html" title=" " alt="" coords="213,275,468,317"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="484,292,1007,287,1155,285,1155,290,1007,292,484,297"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="483,278,714,251,737,248,738,253,715,256,484,283"/>
+<area shape="rect" id="Node000009" href="$d2/dd7/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_mindfire_service.html" title=" " alt="" coords="757,355,988,397"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1003,362,1067,353,1131,339,1206,313,1208,318,1132,344,1068,358,1004,367"/>
+</map>

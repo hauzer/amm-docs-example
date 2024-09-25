@@ -1,0 +1,4 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca082cc8593b30dd900f7cb3ed94b60995 =
+[
+    [ "Test", "d7/d23/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca082cc8593b30dd900f7cb3ed94b60995.html#a5c1111b1a2797352904f35a7db41ede2", null ]
+];

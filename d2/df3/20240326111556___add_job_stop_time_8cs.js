@@ -1,0 +1,4 @@
+var 20240326111556___add_job_stop_time_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.AddJobStopTime", "d4/dfd/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_add_job_stop_time.html", "d4/dfd/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_add_job_stop_time" ]
+];

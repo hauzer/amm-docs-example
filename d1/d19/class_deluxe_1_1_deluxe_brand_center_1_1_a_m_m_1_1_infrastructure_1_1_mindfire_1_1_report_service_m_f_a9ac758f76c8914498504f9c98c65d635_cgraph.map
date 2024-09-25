@@ -1,0 +1,14 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Mindfire.ReportServiceMF.GetUnsubscribedList" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Mindfire.ReportServiceMF.GetUnsubscribedList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,232,147"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="61,87,62,77,73,69,92,63,119,61,150,64,168,71,166,76,148,69,118,67,93,69,75,73,67,80,66,88"/>
+<area shape="rect" id="Node000002" href="$d1/d19/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_report_service_m_f.html#a44967f50cc800a9ec2d293f9fc44c625" title=" " alt="" coords="290,5,538,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,85,291,66,293,71,227,90"/>
+<area shape="rect" id="Node000003" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a92bd6d01c18ab350b60414ec6991a32d" title=" " alt="" coords="280,88,548,147"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="232,115,264,115,264,120,232,120"/>
+<area shape="rect" id="Node000006" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#aaac0af72e9b32df926d2afea555e1e34" title=" " alt="" coords="284,171,544,229"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="227,145,293,163,291,169,225,150"/>
+<area shape="rect" id="Node000004" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#aea43a5ab4bb779ccf8678ef7aac5be0c" title=" " alt="" coords="596,88,864,147"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="549,115,580,115,580,120,549,120"/>
+<area shape="rect" id="Node000005" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a5a50b059decefb01e96a92bc29bcd3e6" title=" " alt="" coords="912,88,1181,147"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="865,115,896,115,896,120,865,120"/>
+</map>

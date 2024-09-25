@@ -1,0 +1,10 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Mindfire.ContactServiceMF" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Mindfire.ContactServiceMF">
+<area shape="rect" id="Node000001" title=" " alt="" coords="39,155,273,213"/>
+<area shape="rect" id="Node000002" href="$d7/d00/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_base_mindfire_service.html" title=" " alt="" coords="5,80,147,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,117,132,152,128,156,96,120"/>
+<area shape="rect" id="Node000003" href="$de/d4f/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_base_mindfire_service.html" title=" " alt="" coords="83,5,229,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,44,92,82,88,78,129,41"/>
+<area shape="rect" id="Node000004" href="$dc/d23/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_contact_service_m_f.html" title=" " alt="" coords="170,80,304,107"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="183,41,225,78,222,82,180,44"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="218,120,184,156,180,152,214,116"/>
+</map>

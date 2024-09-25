@@ -1,0 +1,19 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.AccountService.SignIn" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.AccountService.SignIn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,212,239,271"/>
+<area shape="rect" id="Node000002" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#aeb417f6f04391615f5e4d05a0cd93a79" title=" " alt="" coords="291,5,550,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,210,202,142,242,105,285,74,294,69,296,74,288,78,245,109,206,146,147,214"/>
+<area shape="rect" id="Node000003" href="$d0/d36/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_client_service.html#afc85d8ee40ada4f85ecc4ecfa8589902" title=" " alt="" coords="309,88,532,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,209,286,156,302,150,304,155,288,161,178,214"/>
+<area shape="rect" id="Node000004" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a92bd6d01c18ab350b60414ec6991a32d" title=" " alt="" coords="287,171,555,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="239,223,271,218,271,223,239,228"/>
+<area shape="rect" id="Node000007" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#ae0baafb66bffad319eddc9ab32f16dff" title=" " alt="" coords="291,253,550,312"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="239,255,276,260,275,265,239,260"/>
+<area shape="rect" id="Node000008" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#a197b2335b8b2ec6ee2584b61d4c28b04" title=" " alt="" coords="291,336,550,395"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="178,269,288,322,304,328,302,333,286,326,176,274"/>
+<area shape="rect" id="Node000009" href="$d2/dd7/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_mindfire_service.html#a8b978f2c5a82873291d515de0b12310c" title=" " alt="" coords="303,419,538,477"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="147,269,206,337,245,373,288,404,296,409,294,414,285,409,242,377,202,341,143,273"/>
+<area shape="rect" id="Node000005" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#aea43a5ab4bb779ccf8678ef7aac5be0c" title=" " alt="" coords="603,171,871,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="556,197,587,197,587,203,556,203"/>
+<area shape="rect" id="Node000006" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a5a50b059decefb01e96a92bc29bcd3e6" title=" " alt="" coords="919,171,1188,229"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="872,197,903,197,903,203,872,203"/>
+</map>

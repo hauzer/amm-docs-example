@@ -1,0 +1,5 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1ed4ef0ded62b95182713a0cb8092298e =
+[
+    [ "FieldList", "da/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1ed4ef0ded62b95182713a0cb8092298e.html#adce93896dc647d7ba946fa3d778497d4", null ],
+    [ "Result", "da/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1ed4ef0ded62b95182713a0cb8092298e.html#a7ed3c8ae79bf1d529620c3d145178d3d", null ]
+];

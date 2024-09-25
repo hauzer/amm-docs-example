@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.JobPoolService.RemoveJob" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.JobPoolService.RemoveJob">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,238,64"/>
+<area shape="rect" id="Node000002" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a68491aad504c2902ca7aee6585aab3bb" title=" " alt="" coords="286,5,554,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,32,270,32,270,37,238,37"/>
+<area shape="rect" id="Node000003" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#aea43a5ab4bb779ccf8678ef7aac5be0c" title=" " alt="" coords="602,5,870,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="555,32,586,32,586,37,555,37"/>
+<area shape="rect" id="Node000004" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a5a50b059decefb01e96a92bc29bcd3e6" title=" " alt="" coords="918,5,1187,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="871,32,902,32,902,37,871,37"/>
+</map>

@@ -1,0 +1,5 @@
+var interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_configuration_service_m_f =
+[
+    [ "AddDomain", "dd/d2f/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_configuration_service_m_f.html#a835fadc07442ab85f6828d6528b96a0c", null ],
+    [ "GetDomainList", "dd/d2f/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_configuration_service_m_f.html#a536a9bff09f1b77f2dc57ee9f951562c", null ]
+];

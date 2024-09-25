@@ -1,0 +1,21 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.CampaignService" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.CampaignService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1378,103,1619,145"/>
+<area shape="rect" id="Node000002" href="$dd/dd8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_named_db_service.html" title=" " alt="" coords="1130,75,1329,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1345,105,1378,109,1377,114,1344,111"/>
+<area shape="rect" id="Node000003" href="$dd/dd8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_named_db_service.html" title=" " alt="" coords="667,64,908,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="924,91,1129,93,1129,98,924,97"/>
+<area shape="rect" id="Node000004" href="$d6/d4e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_d_b_service.html" title=" " alt="" coords="252,5,394,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="410,36,667,73,666,79,409,42"/>
+<area shape="rect" id="Node000005" href="$d3/ddb/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_d_b_service.html" title=" " alt="" coords="5,72,152,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="166,67,251,43,252,49,167,72"/>
+<area shape="rect" id="Node000006" href="$d3/dac/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_named_db_service.html" title=" " alt="" coords="230,72,416,115"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="167,91,229,91,229,96,167,96"/>
+<area shape="rect" id="Node000009" href="$d3/dac/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_named_db_service.html" title=" " alt="" coords="201,139,445,197"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="166,117,226,136,224,141,165,122"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="432,91,667,91,667,96,432,96"/>
+<area shape="rect" id="Node000007" href="$d7/d95/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_campaign_service.html" title=" " alt="" coords="1165,143,1294,169"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="1309,144,1377,136,1378,141,1310,149"/>
+<area shape="rect" id="Node000008" href="$d3/dac/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_named_db_service.html" title=" " alt="" coords="686,147,889,189"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="905,162,1165,155,1165,160,905,167"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="461,165,686,165,686,171,461,171"/>
+</map>

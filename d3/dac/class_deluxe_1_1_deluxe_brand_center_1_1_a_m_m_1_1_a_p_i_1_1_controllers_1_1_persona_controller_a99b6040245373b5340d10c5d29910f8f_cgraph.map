@@ -1,0 +1,5 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Controllers.PersonaController.GetPersonaByGUID" name="Deluxe.DeluxeBrandCenter.AMM.API.Controllers.PersonaController.GetPersonaByGUID">
+<area shape="rect" id="Node000001" title="Get details of requested Persona from Microservice." alt="" coords="5,5,263,64"/>
+<area shape="rect" id="Node000002" href="$db/dc5/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_persona_service.html#a62bec89aefd40827f2329b18cfb763ec" title=" " alt="" coords="311,5,548,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,32,295,32,295,37,263,37"/>
+</map>

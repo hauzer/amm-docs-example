@@ -1,0 +1,11 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Domain.ExtServiceModel.Mindfire.PublishProgramResponse" name="Deluxe.DeluxeBrandCenter.AMM.Domain.ExtServiceModel.Mindfire.PublishProgramResponse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,264,188"/>
+<area shape="rect" id="Node000002" href="$de/d59/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_get_program_response.html" title=" " alt="" coords="312,5,570,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,120,311,74,341,62,343,67,313,78,209,125"/>
+<area shape="rect" id="Node000003" href="$d7/df2/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_program_checkin_response.html" title=" " alt="" coords="312,88,570,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="279,137,311,132,311,137,280,142"/>
+<area shape="rect" id="Node000004" href="$d7/d13/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_program_checkout_response.html" title=" " alt="" coords="312,171,570,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="280,176,311,180,311,185,279,181"/>
+<area shape="rect" id="Node000005" href="$d7/de7/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_undo_program_changes_response.html" title=" " alt="" coords="312,253,570,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="209,193,313,239,343,250,341,255,311,244,207,198"/>
+</map>

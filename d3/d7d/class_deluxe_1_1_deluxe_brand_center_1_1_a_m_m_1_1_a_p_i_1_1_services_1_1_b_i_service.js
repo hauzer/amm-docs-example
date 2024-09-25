@@ -1,0 +1,25 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service =
+[
+    [ "BIService", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#ac009134f06743d312f8e5d002e6d42a4", null ],
+    [ "getCampaignDetails", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a7c44945e7ab5444b67e034f919bb23f1", null ],
+    [ "GetCampaignElements", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a80f3ec4dfdf2aef354dee336dcae14c8", null ],
+    [ "GetCampaignsAndStats", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a16746817aced3795d9ed8f95e89c36b3", null ],
+    [ "GetCampaignsWithElements", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a27c49d051ba20f0221f1caf56d38b09d", null ],
+    [ "getClickRates", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a60114a3eb5a77f157a16365a381c7dac", null ],
+    [ "GetContactActivityCSV", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#acd7fff30cfe54558eacf9f451081e426", null ],
+    [ "getContactsClickedOutboundSchedule", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#ac438a2ff3b9291e54ec3525b570a5134", null ],
+    [ "getContactsFailedOutboundSchedule", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a40294412c5295e5bf66fcec65c0b8056", null ],
+    [ "getContactsHardBouncedOutboundSchedule", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a24ae7f128dc1d8e9679c5923383b19aa", null ],
+    [ "getContactsSentToOutboundSchedule", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a12ef235813913d045ab25e814da407e7", null ],
+    [ "getContactsSoftBouncedOutboundSchedule", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a58e2ab35990c3cb2490c147a162bc0f5", null ],
+    [ "getContactsSpamOutboundSchedule", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a92e62641b985e4a39ddbcef67fb4fa72", null ],
+    [ "getContactsSuppressedOutboundSchedule", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#ab8361802e83bfa08afaee412e957ec2a", null ],
+    [ "getContactsThatOpenedOutboundSchedule", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#ab647c728f6a0d4e637ebd96a2ec60810", null ],
+    [ "getContactsUnsubscribedOutboundSchedule", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#af3ae2eeefc59b71f73ea788938828cb3", null ],
+    [ "getMFAccountIdFilter", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a2dad090e9ed421320777cf02268ef4d2", null ],
+    [ "getOpenRates", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#af9b47c663ee3b396e4cd10cfbb88792a", null ],
+    [ "_contactManagerService", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a08d4a97d1e45e08c7b30f533d280216f", null ],
+    [ "_redShiftService", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#ad207773197de15117b0d5b414733e2db", null ],
+    [ "_sessionService", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a8b21e9e8251345a53aed7c2940f1c32f", null ],
+    [ "_userCampaignService", "d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#acd243b08e100d6c9071afa4a8c9f59ae", null ]
+];

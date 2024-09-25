@@ -1,0 +1,16 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.GenerateGroupCreationOptions" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.GenerateGroupCreationOptions">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,257,131"/>
+<area shape="rect" id="Node000002" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#ab1141e6abe5397940a9170ec65047b69" title=" " alt="" coords="305,5,538,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,70,289,62,290,67,258,75"/>
+<area shape="rect" id="Node000006" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#acfcf18f3c8f0b4e9c334223ec33b588f" title=" " alt="" coords="1431,39,1690,97"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="257,99,701,99,985,99,1212,92,1416,78,1416,84,1212,97,985,104,701,104,257,104"/>
+<area shape="rect" id="Node000007" href="$d8/de3/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_state_service.html#a31b4266066d04f875f065548674d4969" title=" " alt="" coords="311,139,532,197"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="258,128,296,137,295,142,257,133"/>
+<area shape="rect" id="Node000003" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#af3ee320e832b5241f698ab94cadab7cb" title="Updates filter to exclude Unsubscribed and Ppersona Contacts." alt="" coords="586,5,819,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="538,32,570,32,570,37,538,37"/>
+<area shape="rect" id="Node000004" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#af5c0313fcaae40d09f41022ef3f1d08d" title=" " alt="" coords="867,5,1101,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="820,32,852,32,852,37,820,37"/>
+<area shape="rect" id="Node000005" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a0d4bb3161a8ff399d0720dbb775430c3" title=" " alt="" coords="1149,5,1383,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1101,32,1133,32,1133,37,1101,37"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1384,45,1416,49,1415,54,1383,51"/>
+</map>

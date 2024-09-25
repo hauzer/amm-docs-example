@@ -1,0 +1,13 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.CampaignBuilderService.MapEmailElementToXML" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.CampaignBuilderService.MapEmailElementToXML">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,242,188"/>
+<area shape="rect" id="Node000002" href="$d8/d2a/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_campaign_builder_1_1_comment.html#a4a056a46f74757164c6d2fc2c69a86f0" title=" " alt="" coords="290,5,566,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,126,289,74,306,67,307,72,291,78,180,131"/>
+<area shape="rect" id="Node000003" href="$d6/d65/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_campaign_builder_service.html#ab0ce675d934f0f825b75314cbe119c15" title=" " alt="" coords="310,88,546,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,140,294,133,295,138,243,145"/>
+<area shape="rect" id="Node000005" href="$d5/da1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_util.html#af372b5defd8a37284b822c7b0b1a49f7" title=" " alt="" coords="321,171,535,229"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="243,172,306,181,305,186,242,177"/>
+<area shape="rect" id="Node000006" href="$db/dc5/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_persona_service.html#a04d89250da1b31cb913d3005ffb1f6f7" title=" " alt="" coords="309,253,546,312"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="180,186,291,239,307,245,306,250,289,244,178,191"/>
+<area shape="rect" id="Node000004" href="$d3/d8e/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_settings_service.html#ae7e408d07e4c31ff8cee83f391ceaa73" title=" " alt="" coords="614,88,851,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="546,115,599,115,599,120,546,120"/>
+</map>

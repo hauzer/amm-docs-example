@@ -1,0 +1,11 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Social.LinkedinService.SaveCredentials" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Social.LinkedinService.SaveCredentials">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,231,105"/>
+<area shape="rect" id="Node000002" href="$d1/d32/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_linkedin_service.html#a28987b5c2d566dd6ca1d5f354dac19e0" title=" " alt="" coords="300,5,526,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,58,285,50,285,55,231,63"/>
+<area shape="rect" id="Node000003" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a92bd6d01c18ab350b60414ec6991a32d" title=" " alt="" coords="279,88,547,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,89,264,94,263,99,231,94"/>
+<area shape="rect" id="Node000004" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#aea43a5ab4bb779ccf8678ef7aac5be0c" title=" " alt="" coords="595,88,863,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="548,115,579,115,579,120,548,120"/>
+<area shape="rect" id="Node000005" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a5a50b059decefb01e96a92bc29bcd3e6" title=" " alt="" coords="911,88,1180,147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="864,115,895,115,895,120,864,120"/>
+</map>

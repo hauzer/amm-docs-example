@@ -1,0 +1,4 @@
+var 20230719155534___remove_max_delegates_8_designer_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.ClientDb.RemoveMaxDelegates", "d6/d91/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_139f67ddf829499767e328b20697c585c.html", "d6/d91/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_139f67ddf829499767e328b20697c585c" ]
+];

@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.TemplateService.GetDisclosureTextTemplate" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.TemplateService.GetDisclosureTextTemplate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,244,64"/>
+<area shape="rect" id="Node000002" href="$d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#aa1715df107d2c604ba78e80564d67873" title=" " alt="" coords="292,5,547,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,32,276,32,276,37,244,37"/>
+<area shape="rect" id="Node000003" href="$d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#a3bdbcbdf8ad1737344057d7ff03135d7" title=" " alt="" coords="595,5,834,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="547,32,580,32,580,37,547,37"/>
+<area shape="rect" id="Node000004" href="$d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#aef0283b7965fec65acdac892ad685c5b" title=" " alt="" coords="882,5,1122,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="835,32,867,32,867,37,835,37"/>
+</map>

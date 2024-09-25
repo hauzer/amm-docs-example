@@ -1,0 +1,27 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info =
+[
+    [ "AccountGuid", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a77d05373c2f12c5ccc565a564e2c3c68", null ],
+    [ "AccountID", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a93d0b67dbd62cfc1ad42dbc674e6fa79", null ],
+    [ "ClientType", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#af9d26390b313c9ca80d3a106235563bf", null ],
+    [ "ClientTypeName", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a62c9c722ccab28ffadf3237ff03b3b92", null ],
+    [ "CreationDate", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#ab23b351b19e2877e48d8e5eda0773a01", null ],
+    [ "CustomReportName", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a2ccf068f798a1cfc1c5289f355c57561", null ],
+    [ "FocusArea_ID", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a2e5b0f97b26dc385f871837cb32f90ef", null ],
+    [ "FocusAreaName", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a679eb30e31be4e61a7be1fae65258094", null ],
+    [ "LastUpdate", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a806c76161594ac940675656c5fb643f3", null ],
+    [ "Name", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a769312f5c0dd66f89442d34f527d1750", null ],
+    [ "PasswordRenewalFrequency", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a740be1182b2330012817d96f9d43f51d", null ],
+    [ "PasswordStrengthLevel", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a80729326dfec45b55d0a563e49d7e68b", null ],
+    [ "PasswordStrengthLevelName", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a9d55eaa35b609d0d595f0944803c149b", null ],
+    [ "PowerUserEmail", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a0c15d780e33e8cda4aafffbadb5cb288", null ],
+    [ "PowerUserFirstName", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a46ac6d8133a818a164cb7e670b2f2aa1", null ],
+    [ "PowerUserLastName", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#ae2b8b5ccd3de34ff9dad8cb0860f2d16", null ],
+    [ "ServicePackage_ID", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a86b0f2de5ea47e7cabdda26a2e93c903", null ],
+    [ "ServicePackageName", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a4c8bb02b031ccce8b8ab2be1388be282", null ],
+    [ "SqlServer_ID", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a9135380512b1d27cddf3da3461635f0f", null ],
+    [ "SqlServerName", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#ab4d4ad772d3a607b3135e6fbf019eceb", null ],
+    [ "StatementDay", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#ab479ca0dd2885da8c50ff585b1106c92", null ],
+    [ "Status", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a9674854325de4528eb50b6c74e949b47", null ],
+    [ "StatusName", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#a2621df5dbadf3f40663bf66f16f49d2e", null ],
+    [ "TimeoutMin", "d8/d43/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_account_info.html#adecee94c54de9357858cabfb6bf7df93", null ]
+];

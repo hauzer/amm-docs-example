@@ -1,0 +1,18 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.GetRedtailTagGroup" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.GetRedtailTagGroup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,239,213"/>
+<area shape="rect" id="Node000002" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a783fc2f127a67a065676691c50834e1c" title=" " alt="" coords="300,55,533,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,152,313,116,315,121,211,157"/>
+<area shape="rect" id="Node000003" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a133274531a3def5d94274b0079caf72f" title=" " alt="" coords="594,88,827,147"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="239,168,579,130,579,135,239,173"/>
+<area shape="rect" id="Node000007" href="$d9/dc4/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_red_tail_1_1_i_red_tail_service.html#acc8a6c8e48c817124f97fb93e4569e59" title=" " alt="" coords="310,188,523,247"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="239,195,295,201,294,206,239,200"/>
+<area shape="rect" id="Node000008" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#acfcf18f3c8f0b4e9c334223ec33b588f" title=" " alt="" coords="287,271,546,329"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="185,211,288,256,304,262,303,267,286,261,183,216"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="534,95,579,100,578,105,533,100"/>
+<area shape="rect" id="Node000004" href="$d5/d37/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_hash_helper.html#acba4243f79f37b8b22aff859a90c4a81" title=" " alt="" coords="897,5,1113,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="817,85,883,66,884,71,818,90"/>
+<area shape="rect" id="Node000005" href="$d9/dc4/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_red_tail_1_1_i_red_tail_service.html#a2551fe5043230115bff802b247b2d98b" title=" " alt="" coords="898,88,1112,147"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="828,115,883,115,883,120,828,120"/>
+<area shape="rect" id="Node000006" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#a0ec7d7d28fa63000ba8d1bea1960d1e0" title=" " alt="" coords="875,171,1135,229"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="818,145,884,163,883,169,817,150"/>
+</map>

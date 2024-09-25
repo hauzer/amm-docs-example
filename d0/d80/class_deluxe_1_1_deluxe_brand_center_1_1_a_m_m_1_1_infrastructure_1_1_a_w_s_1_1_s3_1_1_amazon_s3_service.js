@@ -1,0 +1,28 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service =
+[
+    [ "AmazonS3Service", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#ad896f670b4b2fc2d21aa7a52dfec86d5", null ],
+    [ "DeleteFile", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#a0fcf3f615af112f9ced6cf1b3f8fcf54", null ],
+    [ "DownloadCampaignTemplate", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#ab36f8d1d6957cb6863cab65363e9d8c2", null ],
+    [ "DownloadFromContent", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#a3bdbcbdf8ad1737344057d7ff03135d7", null ],
+    [ "DownloadHtmlContent", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#ad58e540499f23fa2ea1cc8b28a0ac974", null ],
+    [ "DownloadHTMLFromContent", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#aa1715df107d2c604ba78e80564d67873", null ],
+    [ "DownloadPreviewTemplate", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#aced5e862e217bb0e181c968aa561e549", null ],
+    [ "DownloadRssFeed", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#a7bffd7a0849c284e906e7fdb3389ab48", null ],
+    [ "DownloadString", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#acde7f15d01cfda39f39c3b82cc32c404", null ],
+    [ "DownloadStringFromUrl", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#aef0283b7965fec65acdac892ad685c5b", null ],
+    [ "DownloadStringHTML", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#a2ba8751acd4c3759525915972ce3ad1d", null ],
+    [ "GetRssFeedsFolder", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#a0b94ce3649f637992d464fb08814236c", null ],
+    [ "GetS3RootUrl", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#ae7e0feee854b7d38289ba20180bf69ba", null ],
+    [ "UploadBadCSV", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#afee85a7eef16923f30b6fe7fa74bd679", null ],
+    [ "UploadCSV", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#a5535a7475b26c0b54e8e6d1cf47f7811", null ],
+    [ "UploadHtml", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#a42fd723f262cac0f98eb0842f6beefdf", null ],
+    [ "UploadRssFeed", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#ad5a6a72ef5b1da1be17b9b9602f57a0a", null ],
+    [ "UploadText", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#ab2c0d775996aac0dc53f2cea3b07d544", null ],
+    [ "_amazonClient", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#a70436f17f9e7d273a99584117c530bee", null ],
+    [ "_configuration", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#ac68678dcbca8bf5eb4ed010a9ee386ec", null ],
+    [ "_logger", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#a81ef0d2214f62ae1c1bd40c4209736b5", null ],
+    [ "_s3UrlPrefix", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#a9aa33f4fd9813a11d1c239d2f0178ac4", null ],
+    [ "_sessionService", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#af073d9e8b5d9343b7d46d6be71373293", null ],
+    [ "_session", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#a710d27486ca57a15a9141121cdf4eac7", null ],
+    [ "Bucket", "d0/d80/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_amazon_s3_service.html#ad7481d2ea8d6dd897575ec2956833b15", null ]
+];

@@ -1,0 +1,4 @@
+var _contact_for_remove_from_group_v_m_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Domain.ViewModel.ContactForRemoveFromGroupVM", "de/d98/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_contact_for_remove_from_group_v_m.html", "de/d98/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_contact_for_remove_from_group_v_m" ]
+];

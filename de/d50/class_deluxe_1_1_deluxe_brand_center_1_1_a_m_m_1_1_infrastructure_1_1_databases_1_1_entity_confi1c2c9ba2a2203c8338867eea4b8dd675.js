@@ -1,0 +1,4 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confi1c2c9ba2a2203c8338867eea4b8dd675 =
+[
+    [ "Configure", "de/d50/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confi1c2c9ba2a2203c8338867eea4b8dd675.html#a4df165ebd42e5c8ea67a4aded96fce50", null ]
+];

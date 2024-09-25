@@ -1,0 +1,15 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.TemplateService" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.TemplateService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1028,48,1262,91"/>
+<area shape="rect" id="Node000002" href="$d6/d4e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_d_b_service.html" title=" " alt="" coords="826,16,978,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="994,47,1028,51,1027,56,994,52"/>
+<area shape="rect" id="Node000003" href="$d6/d4e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_d_b_service.html" title=" " alt="" coords="418,5,618,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="634,33,826,34,826,39,634,38"/>
+<area shape="rect" id="Node000004" href="$d3/ddb/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_d_b_service.html" title=" " alt="" coords="34,13,181,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="196,32,417,32,417,37,196,37"/>
+<area shape="rect" id="Node000005" href="$d0/ddb/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_template_service.html" title=" " alt="" coords="841,84,963,111"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="978,86,1027,80,1028,86,979,91"/>
+<area shape="rect" id="Node000006" href="$d3/ddb/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_d_b_service.html" title=" " alt="" coords="440,88,596,131"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="612,104,841,97,841,102,612,109"/>
+<area shape="rect" id="Node000007" href="$d3/ddb/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_d_b_service.html" title=" " alt="" coords="5,80,210,139"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="225,107,439,107,439,112,225,112"/>
+</map>

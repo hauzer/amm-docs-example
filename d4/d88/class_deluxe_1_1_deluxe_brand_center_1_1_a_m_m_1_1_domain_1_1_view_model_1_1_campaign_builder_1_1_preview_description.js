@@ -1,0 +1,5 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_campaign_builder_1_1_preview_description =
+[
+    [ "Content", "d4/d88/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_campaign_builder_1_1_preview_description.html#a0218e5f7f34406588f1e10c03b418939", null ],
+    [ "Position", "d4/d88/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_campaign_builder_1_1_preview_description.html#a0a402714af017085e37069a600d697bc", null ]
+];

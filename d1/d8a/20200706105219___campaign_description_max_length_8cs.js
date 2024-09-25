@@ -1,0 +1,4 @@
+var 20200706105219___campaign_description_max_length_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.CampaignDescriptionMaxLength", "d8/dad/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_18e4d9041e8200bb3bc0ece122356156f.html", "d8/dad/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_18e4d9041e8200bb3bc0ece122356156f" ]
+];

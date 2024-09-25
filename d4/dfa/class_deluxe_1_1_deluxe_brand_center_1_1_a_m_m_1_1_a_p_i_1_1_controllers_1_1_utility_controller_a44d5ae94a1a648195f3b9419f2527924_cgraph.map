@@ -1,0 +1,11 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Controllers.UtilityController.GetTimeZones" name="Deluxe.DeluxeBrandCenter.AMM.API.Controllers.UtilityController.GetTimeZones">
+<area shape="rect" id="Node000001" title="Get a list of all Time Zones." alt="" coords="5,43,249,101"/>
+<area shape="rect" id="Node000002" href="$d0/d53/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_models_1_1_controller_result.html#aedbea8b3284f4fa00fc470b2b82d4423" title=" " alt="" coords="297,13,553,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,54,281,50,281,55,250,59"/>
+<area shape="rect" id="Node000005" href="$df/df1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_util_1_1_date_time_utils.html#a33c8a995a2a5c775f9a259e561bebc98" title=" " alt="" coords="313,80,536,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="250,85,298,91,297,96,249,90"/>
+<area shape="rect" id="Node000003" href="$d0/d53/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_models_1_1_controller_result.html#a90968814acadbd1870734f4eb0a71de0" title=" " alt="" coords="601,5,827,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="554,32,585,32,585,37,554,37"/>
+<area shape="rect" id="Node000004" href="$d0/d53/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_models_1_1_controller_result.html#a3d8dece2bda1f0cba873ac9778ee8e25" title=" " alt="" coords="875,5,1105,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="828,32,860,32,860,37,828,37"/>
+</map>

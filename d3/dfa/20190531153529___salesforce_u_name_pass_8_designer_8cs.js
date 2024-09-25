@@ -1,0 +1,4 @@
+var 20190531153529___salesforce_u_name_pass_8_designer_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.SalesforceUNamePass", "d5/d9c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_salesforce_u_name_pass.html", "d5/d9c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_salesforce_u_name_pass" ]
+];

@@ -1,0 +1,7 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_persona_instance_with_name_is_default_d_t_o =
+[
+    [ "isDefault", "de/de6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_persona_instance_with_name_is_default_d_t_o.html#ae82cb676f1ca6142e680a8ddce3441d4", null ],
+    [ "Name", "de/de6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_persona_instance_with_name_is_default_d_t_o.html#a0147c9fe5a7fce8e385fd24fc680c978", null ],
+    [ "PersonaInstanceId", "de/de6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_persona_instance_with_name_is_default_d_t_o.html#a0fb31f6eb2d2069f31721377304f338b", null ],
+    [ "PersonaType", "de/de6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_persona_instance_with_name_is_default_d_t_o.html#ace5ad4d6998de647db4b486dc6dc7020", null ]
+];

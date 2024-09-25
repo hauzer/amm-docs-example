@@ -1,0 +1,6 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_branch_quantity_billing_code =
+[
+    [ "BuildTargetModel", "d3/dda/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_branch_quantity_billing_code.html#a74d62cf65112f10832e4d3f67470f5ba", null ],
+    [ "Down", "d3/dda/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_branch_quantity_billing_code.html#a49cff6db3c876645f1fc5e2b777e7903", null ],
+    [ "Up", "d3/dda/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_branch_quantity_billing_code.html#a6d791ce8df41903ff0810777ce185bc6", null ]
+];

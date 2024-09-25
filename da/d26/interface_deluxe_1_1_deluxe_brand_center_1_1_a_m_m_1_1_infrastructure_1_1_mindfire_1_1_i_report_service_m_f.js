@@ -1,0 +1,5 @@
+var interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_report_service_m_f =
+[
+    [ "GetUnsubscribeCredentials", "da/d26/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_report_service_m_f.html#ada64758618c474ba5ee980bf37b1b8b7", null ],
+    [ "GetUnsubscribedList", "da/d26/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_report_service_m_f.html#aa142ddca6079d2e9fb5ca4949c6baf17", null ]
+];

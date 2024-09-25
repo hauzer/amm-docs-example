@@ -1,0 +1,9 @@
+var namespace_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social =
+[
+    [ "ILinkedinService", "d0/db3/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_i_linkedin_service.html", "d0/db3/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_i_linkedin_service" ],
+    [ "ISocialNetworkService", "da/d0c/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_i_social_network_service.html", "da/d0c/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_i_social_network_service" ],
+    [ "ITwitterService", "dd/d77/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_i_twitter_service.html", "dd/d77/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_i_twitter_service" ],
+    [ "LinkedinService", "d1/d32/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_linkedin_service.html", "d1/d32/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_linkedin_service" ],
+    [ "SocialNetworkService", "d7/d5a/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_social_network_service.html", "d7/d5a/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_social_network_service" ],
+    [ "TwitterService", "de/d3c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_twitter_service.html", "de/d3c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_twitter_service" ]
+];

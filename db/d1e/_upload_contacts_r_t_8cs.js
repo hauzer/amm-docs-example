@@ -1,0 +1,4 @@
+var _upload_contacts_r_t_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Domain.ViewModel.ContactManager.UploadContactsRT", "d5/de6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_contact_manager_1_1_upload_contacts_r_t.html", "d5/de6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_contact_manager_1_1_upload_contacts_r_t" ]
+];

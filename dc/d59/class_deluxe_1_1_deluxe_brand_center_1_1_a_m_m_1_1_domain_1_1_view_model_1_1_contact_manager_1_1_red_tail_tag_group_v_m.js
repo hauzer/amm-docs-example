@@ -1,0 +1,4 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_contact_manager_1_1_red_tail_tag_group_v_m =
+[
+    [ "TagGroup", "dc/d59/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_contact_manager_1_1_red_tail_tag_group_v_m.html#af43fbf7d5aef95ff9b13e597dc2b29a4", null ]
+];

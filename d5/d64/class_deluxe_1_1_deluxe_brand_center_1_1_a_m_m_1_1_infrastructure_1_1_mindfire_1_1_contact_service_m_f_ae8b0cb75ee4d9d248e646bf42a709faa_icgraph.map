@@ -1,0 +1,7 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Mindfire.ContactServiceMF.GetContactFieldList" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Mindfire.ContactServiceMF.GetContactFieldList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="568,5,801,64"/>
+<area shape="rect" id="Node000002" href="$d5/d64/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_contact_service_m_f.html#a630dbb06240b8778fa9713361c65f695" title=" " alt="" coords="287,5,520,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="553,37,521,37,521,32,553,32"/>
+<area shape="rect" id="Node000003" href="$d5/d64/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_contact_service_m_f.html#ab022f0229acc799c23ced2e60bbda56b" title="Get all contacts, with selected fields, that passes filtering." alt="" coords="5,5,239,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="271,37,239,37,239,32,271,32"/>
+</map>

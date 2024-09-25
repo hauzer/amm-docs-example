@@ -1,0 +1,4 @@
+var 20200304140857___campaign_contact_search_type_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.CampaignContactSearchType", "d4/da1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_campaign_contact_search_type.html", "d4/da1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_campaign_contact_search_type" ]
+];

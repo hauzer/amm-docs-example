@@ -1,0 +1,13 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.GetContactGroupDB" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.GetContactGroupDB">
+<area shape="rect" id="Node000001" title="Get Group from DB." alt="" coords="859,47,1093,105"/>
+<area shape="rect" id="Node000002" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a22f946e29ca8db2aaea63a388be914be" title=" " alt="" coords="578,47,811,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="844,79,812,79,812,73,844,73"/>
+<area shape="rect" id="Node000003" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#ad5a6675a4bbdf499e765e18b3f2f71d3" title=" " alt="" coords="297,5,530,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="562,59,530,54,531,49,563,54"/>
+<area shape="rect" id="Node000005" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#ae33c1b36ed9e432ded5f28b4137fea46" title="Get Paginated Contacts. Exclusion of Unsubscribed and PersonaContacts are added to filter prior to MF..." alt="" coords="297,88,530,147"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="563,98,531,103,530,98,562,93"/>
+<area shape="rect" id="Node000004" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a606f9329995599eb3ae8583e6d033f8d" title=" " alt="" coords="5,5,249,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="281,37,249,37,249,32,281,32"/>
+<area shape="rect" id="Node000006" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a5ec626d341e4b4f081d3fca715b95944" title=" " alt="" coords="9,88,245,147"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="281,120,246,120,246,115,281,115"/>
+</map>

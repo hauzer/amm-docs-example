@@ -1,0 +1,35 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.IContactManagerService.DownloadCSV" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.IContactManagerService.DownloadCSV">
+<area shape="rect" id="Node000001" title=" " alt="" coords="585,419,822,477"/>
+<area shape="rect" id="Node000002" href="$d6/d65/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_campaign_builder_service.html#a2bfbc51a51c4a08f3144041f94c3015f" title=" " alt="" coords="287,5,523,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="692,404,675,332,645,245,624,199,599,155,570,114,535,78,520,67,523,62,539,74,574,111,604,152,629,197,650,243,680,331,697,403"/>
+<area shape="rect" id="Node000003" href="$d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#ac438a2ff3b9291e54ec3525b570a5134" title=" " alt="" coords="291,88,519,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="686,405,665,349,633,283,590,217,564,187,535,161,518,149,521,145,539,157,568,184,594,214,637,281,670,347,691,403"/>
+<area shape="rect" id="Node000005" href="$d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a40294412c5295e5bf66fcec65c0b8056" title=" " alt="" coords="295,171,514,229"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="676,406,651,367,619,323,580,280,535,244,514,231,516,226,539,239,584,277,623,320,656,364,681,404"/>
+<area shape="rect" id="Node000006" href="$d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a24ae7f128dc1d8e9679c5923383b19aa" title=" " alt="" coords="273,253,536,312"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="657,410,601,367,536,326,511,315,513,310,538,322,604,362,660,406"/>
+<area shape="rect" id="Node000007" href="$d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a12ef235813913d045ab25e814da407e7" title=" " alt="" coords="292,336,518,395"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="580,417,513,398,514,393,581,411"/>
+<area shape="rect" id="Node000008" href="$d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a58e2ab35990c3cb2490c147a162bc0f5" title=" " alt="" coords="275,419,534,477"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="569,451,535,451,535,445,569,445"/>
+<area shape="rect" id="Node000009" href="$d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#a92e62641b985e4a39ddbcef67fb4fa72" title=" " alt="" coords="296,501,514,560"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="581,485,514,503,513,498,580,479"/>
+<area shape="rect" id="Node000010" href="$d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#ab8361802e83bfa08afaee412e957ec2a" title=" " alt="" coords="278,584,532,643"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="660,490,604,534,538,574,513,586,511,581,536,570,601,529,657,486"/>
+<area shape="rect" id="Node000011" href="$d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#ab647c728f6a0d4e637ebd96a2ec60810" title=" " alt="" coords="277,667,532,725"/>
+<area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="681,492,656,532,623,576,584,619,539,657,519,668,516,664,535,652,580,616,619,573,651,529,676,490"/>
+<area shape="rect" id="Node000012" href="$d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#af3ae2eeefc59b71f73ea788938828cb3" title=" " alt="" coords="273,749,537,808"/>
+<area shape="poly" id="edge18_Node000001_Node000012" title=" " alt="" coords="691,493,670,549,637,615,594,682,568,712,539,739,522,751,519,746,535,735,564,709,590,679,633,613,665,547,686,491"/>
+<area shape="rect" id="Node000013" href="$d1/d82/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_controllers_1_1_contact_manager_controller.html#a857f5ed6402170803b7a81d1097099ac" title="Start the job for downloading all contacts." alt="" coords="282,832,528,891"/>
+<area shape="poly" id="edge20_Node000001_Node000013" title=" " alt="" coords="697,493,680,565,650,653,629,699,604,744,574,785,539,822,523,834,520,829,535,818,570,782,599,741,624,697,645,651,675,564,692,492"/>
+<area shape="rect" id="Node000004" href="$d3/d7d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_b_i_service.html#acd7fff30cfe54558eacf9f451081e426" title=" " alt="" coords="5,419,225,477"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="280,157,274,161,244,190,218,222,175,294,145,364,127,419,122,417,140,362,170,292,214,219,240,186,271,157,276,152"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="283,238,274,243,228,284,188,332,156,379,134,419,129,417,152,377,184,329,224,281,271,239,280,234"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="284,321,274,326,205,372,149,420,145,416,201,368,271,322,282,316"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="286,402,221,421,220,415,284,397"/>
+<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="259,451,225,451,225,445,259,445"/>
+<area shape="poly" id="edge13_Node000009_Node000004" title=" " alt="" coords="284,499,220,481,221,475,286,494"/>
+<area shape="poly" id="edge15_Node000010_Node000004" title=" " alt="" coords="282,580,271,574,201,528,145,480,149,476,205,524,274,570,284,575"/>
+<area shape="poly" id="edge17_Node000011_Node000004" title=" " alt="" coords="278,661,271,657,224,615,184,567,152,519,129,479,134,477,156,517,188,564,228,612,274,653,281,657"/>
+<area shape="poly" id="edge19_Node000012_Node000004" title=" " alt="" coords="275,743,271,739,240,710,214,677,170,604,140,534,122,479,127,477,145,532,175,602,218,674,244,706,274,735,278,738"/>
+</map>

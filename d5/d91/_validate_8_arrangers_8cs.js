@@ -1,0 +1,4 @@
+var _validate_8_arrangers_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Tests.SUT.Domain.Utility.CSVHelper.Validate.SetupArranger", "da/d2b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_domain_1_1_utility_1_1_c_db7e1811f554aa995d8c21f015e33b78.html", "da/d2b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_domain_1_1_utility_1_1_c_db7e1811f554aa995d8c21f015e33b78" ]
+];

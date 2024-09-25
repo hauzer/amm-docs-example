@@ -1,0 +1,11 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.GetSFLeads" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.GetSFLeads">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,239,188"/>
+<area shape="rect" id="Node000002" href="$db/d9f/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_salesforce_1_1_i_salesforce_service.html#a9d48ddfc80783f301037cca7aea9f667" title=" " alt="" coords="288,5,545,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,126,286,74,301,67,303,72,288,78,178,131"/>
+<area shape="rect" id="Node000003" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#ad85d03e7ce57159f6df745351cde07be" title=" " alt="" coords="287,88,546,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,140,271,135,272,140,239,145"/>
+<area shape="rect" id="Node000004" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#a1ff9609246578949bb1833867cb198f3" title=" " alt="" coords="287,171,546,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="239,172,272,177,271,182,239,178"/>
+<area shape="rect" id="Node000005" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#a7c5139f27a5eec5ef0e3a6f867c728e8" title=" " alt="" coords="287,253,546,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="178,186,288,239,303,245,301,250,286,244,176,191"/>
+</map>

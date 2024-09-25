@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Mindfire.ContactServiceMF.UpdateContact" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Mindfire.ContactServiceMF.UpdateContact">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,239,105"/>
+<area shape="rect" id="Node000002" href="$df/df6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_contact_v_m.html#a03e9e97a51a3be009f4095efaf8b7c6d" title=" " alt="" coords="287,5,541,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,57,271,52,271,58,240,62"/>
+<area shape="rect" id="Node000003" href="$d5/d64/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_contact_service_m_f.html#ac18804fb921ab3fc3dd48f4e64211aea" title=" " alt="" coords="297,88,530,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,90,282,96,281,101,239,95"/>
+<area shape="rect" id="Node000004" href="$dd/df7/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_util_1_1_string.html#a3593e45b70fbef7e71ee37b438496034" title="replace Cr, Lf, CrLf with space" alt="" coords="589,88,793,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="531,115,573,115,573,120,531,120"/>
+</map>

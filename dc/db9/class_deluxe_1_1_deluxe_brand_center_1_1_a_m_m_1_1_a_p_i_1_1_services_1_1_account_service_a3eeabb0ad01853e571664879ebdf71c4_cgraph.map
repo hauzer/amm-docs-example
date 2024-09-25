@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.AccountService.registerApplicationUserWithUserId" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.AccountService.registerApplicationUserWithUserId">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,282,64"/>
+<area shape="rect" id="Node000002" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a92bd6d01c18ab350b60414ec6991a32d" title=" " alt="" coords="330,5,598,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,32,314,32,314,37,282,37"/>
+<area shape="rect" id="Node000003" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#aea43a5ab4bb779ccf8678ef7aac5be0c" title=" " alt="" coords="646,5,914,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="599,32,630,32,630,37,599,37"/>
+<area shape="rect" id="Node000004" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a5a50b059decefb01e96a92bc29bcd3e6" title=" " alt="" coords="962,5,1231,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="915,32,946,32,946,37,915,37"/>
+</map>

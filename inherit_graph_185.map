@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d7/d95/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_column_editor.html" title="Interface for column editing (delete column, append column and insert column)" alt="" coords="5,5,225,48"/>
+<area shape="rect" id="Node000001" href="$de/d9e/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_table_editor.html" title="Interface implements IRowEditor and IColumnEditor." alt="" coords="277,39,482,81"/>
+<area shape="poly" id="edge97_Node000000_Node000001" title=" " alt="" coords="240,40,277,44,276,50,240,45"/>
+<area shape="rect" id="Node000002" href="$d8/d96/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_table.html" title="Interface implements ITableReader, ITableWriter, ITableEditor." alt="" coords="534,105,718,148"/>
+<area shape="poly" id="edge98_Node000001_Node000002" title=" " alt="" coords="476,83,545,102,544,107,475,89"/>
+<area shape="rect" id="Node000003" href="$d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html" title=" " alt="" coords="766,105,951,148"/>
+<area shape="poly" id="edge99_Node000002_Node000003" title=" " alt="" coords="734,124,766,124,766,129,734,129"/>
+<area shape="rect" id="Node000006" href="$d0/d81/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_row_editor.html" title="Interface for row editing that has Delete row, append row and insert row." alt="" coords="14,72,216,115"/>
+<area shape="poly" id="edge100_Node000006_Node000001" title=" " alt="" coords="231,76,276,70,276,76,231,81"/>
+<area shape="rect" id="Node000004" href="$d3/dd6/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_table_reader.html" title=" " alt="" coords="273,105,486,148"/>
+<area shape="poly" id="edge101_Node000004_Node000002" title=" " alt="" coords="502,124,534,124,534,129,502,129"/>
+<area shape="rect" id="Node000005" href="$df/d98/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_table_writer.html" title="Interface for writing that has SetValue." alt="" coords="277,172,482,215"/>
+<area shape="poly" id="edge102_Node000005_Node000002" title=" " alt="" coords="475,165,544,146,545,151,476,170"/>
+</map>

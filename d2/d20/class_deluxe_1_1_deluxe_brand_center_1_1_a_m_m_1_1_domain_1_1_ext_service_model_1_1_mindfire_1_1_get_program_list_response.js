@@ -1,0 +1,5 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_get_program_list_response =
+[
+    [ "ProgramList", "d2/d20/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_get_program_list_response.html#a28c2e3399c2637c62aec5ff23fa5d0fa", null ],
+    [ "Result", "d2/d20/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_get_program_list_response.html#aaab716c50a7d2c320817c30f5a0064a5", null ]
+];

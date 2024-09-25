@@ -1,0 +1,4 @@
+var _update_social_callback_url_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.ScriptRunner.Services.Scripts.UpdateSocialCallbackUrl", "d9/dc8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_services_1_1_scripts_1_1_update_social_callback_url.html", "d9/dc8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_services_1_1_scripts_1_1_update_social_callback_url" ]
+];

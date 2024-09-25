@@ -1,0 +1,4 @@
+var _twitter_account_configuration_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.EntityConfiguration.TwitterAccountConfiguration", "d6/d55/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confi72734798de0a9e1ac741ed305e3ad704.html", "d6/d55/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confi72734798de0a9e1ac741ed305e3ad704" ]
+];

@@ -1,0 +1,4 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca6777966e9919441b18058b8ded8bf40e =
+[
+    [ "MapUserCampaignToXMLError", "db/d69/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca6777966e9919441b18058b8ded8bf40e.html#a9ca9e859e55446392f0d1383ac5588b3", null ]
+];

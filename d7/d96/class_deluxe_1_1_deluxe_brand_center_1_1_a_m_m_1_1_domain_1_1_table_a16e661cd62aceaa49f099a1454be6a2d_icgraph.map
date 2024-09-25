@@ -1,0 +1,22 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Domain.Table.GetColumnNo" name="Deluxe.DeluxeBrandCenter.AMM.Domain.Table.GetColumnNo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="849,229,1073,272"/>
+<area shape="rect" id="Node000002" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a0ea8d4c9c0c9ec2f05066c6cef1040d5" title=" " alt="" coords="568,47,801,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="927,220,870,169,800,120,777,108,780,103,803,115,873,165,930,216"/>
+<area shape="rect" id="Node000006" href="$d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a928744b47ce228cc198330e3a723c2d2" title=" " alt="" coords="592,129,777,172"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="897,225,800,187,766,175,767,170,802,181,899,220"/>
+<area shape="rect" id="Node000007" href="$d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#aa75e844f02be8837af58fa6c45393ebc" title=" " alt="" coords="592,196,777,239"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="833,238,777,231,778,226,834,233"/>
+<area shape="rect" id="Node000008" href="$d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a936e56d57d027b6c1819b8527f1d6ee4" title=" " alt="" coords="572,263,797,305"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="834,269,797,273,797,268,834,263"/>
+<area shape="rect" id="Node000009" href="$d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a16ef5704b665df667a264872797972b0" title="Delete column." alt="" coords="573,353,796,396"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="899,281,735,355,733,350,897,276"/>
+<area shape="rect" id="Node000010" href="$d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a063396e7bb68637f1ee9ef56ff1a6afc" title="Set value for specific field." alt="" coords="588,420,781,463"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="937,286,880,349,843,382,803,410,779,422,777,417,800,406,840,378,876,345,933,282"/>
+<area shape="rect" id="Node000003" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#aa1fe050e4d5227a691150b9849f7b1a3" title=" " alt="" coords="287,47,520,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="553,79,521,79,521,73,553,73"/>
+<area shape="rect" id="Node000004" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a7f6af03e51f7bb3b4b003c2296015349" title=" " alt="" coords="5,5,239,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="271,59,239,54,240,49,272,54"/>
+<area shape="rect" id="Node000005" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a9fed8bce1aa679c38c8e729ee735ca5f" title=" " alt="" coords="5,88,239,147"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="272,98,240,103,239,98,271,93"/>
+<area shape="poly" id="edge9_Node000009_Node000009" title=" " alt="" coords="730,340,713,334,685,332,658,334,642,339,636,345,638,352,633,353,631,343,639,334,657,329,685,327,714,329,732,335"/>
+</map>

@@ -1,0 +1,4 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_caabc268621ef1bcda282685d7a460e0be =
+[
+    [ "CampaignTemplateError", "d7/db7/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_caabc268621ef1bcda282685d7a460e0be.html#a4c0df13f54645d4927e235e442c6d6a9", null ]
+];

@@ -1,0 +1,15 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Domain.Table&lt; T &gt;" name="Deluxe.DeluxeBrandCenter.AMM.Domain.Table&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="127,229,312,272"/>
+<area shape="rect" id="Node000002" href="$d8/d96/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_table.html" title="Interface implements ITableReader, ITableWriter, ITableEditor." alt="" coords="176,155,263,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,197,222,229,217,229,217,197"/>
+<area shape="rect" id="Node000003" href="$d3/dd6/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_table_reader.html" title=" " alt="" coords="5,80,135,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,111,194,152,192,156,109,116"/>
+<area shape="rect" id="Node000004" href="$df/d98/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_table_writer.html" title="Interface for writing that has SetValue." alt="" coords="159,80,280,107"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="222,122,222,154,217,154,217,122"/>
+<area shape="rect" id="Node000005" href="$de/d9e/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_table_editor.html" title="Interface implements IRowEditor and IColumnEditor." alt="" coords="304,80,425,107"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="327,116,246,156,244,152,325,111"/>
+<area shape="rect" id="Node000006" href="$d0/d81/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_row_editor.html" title="Interface for row editing that has Delete row, append row and insert row." alt="" coords="230,5,347,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="315,41,353,78,350,82,311,45"/>
+<area shape="rect" id="Node000007" href="$d7/d95/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_i_column_editor.html" title="Interface for column editing (delete column, append column and insert column)" alt="" coords="372,5,507,32"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="417,45,379,82,376,78,414,41"/>
+</map>

@@ -1,0 +1,4 @@
+var _event_detail_configuration_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.EntityConfiguration.EventDetailConfiguration", "d9/d03/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confia1eb1f53880e5a20b806241b8dd0170f.html", "d9/d03/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confia1eb1f53880e5a20b806241b8dd0170f" ]
+];

@@ -1,0 +1,23 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Domain.Services.ISessionService.SetUserId" name="Deluxe.DeluxeBrandCenter.AMM.Domain.Services.ISessionService.SetUserId">
+<area shape="rect" id="Node000001" title=" " alt="" coords="591,279,850,337"/>
+<area shape="rect" id="Node000002" href="$d7/d88/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_d_p_extension_methods.html#a67b6fec088ac8c30b5526beca2ea9206" title=" " alt="" coords="271,5,543,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="695,266,669,222,634,171,591,121,541,78,522,67,525,62,545,74,595,117,638,168,674,219,700,264"/>
+<area shape="rect" id="Node000003" href="$d7/d46/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_program.html#a28f3fcc5623aa9a9c456c190c7e29b7f" title=" " alt="" coords="286,88,528,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="684,268,622,204,583,172,542,145,517,134,519,129,544,140,587,168,626,200,688,265"/>
+<area shape="rect" id="Node000006" href="$de/d34/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_services_1_1_scripts_1_1_sync_campaign_element_metadata.html#a2dc07ce280c82cbd08cb77a581c9af0e" title=" " alt="" coords="287,155,527,213"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="646,274,542,228,510,217,512,211,544,223,649,269"/>
+<area shape="rect" id="Node000007" href="$db/d64/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_services_1_1_scripts_1_1_sync_campaign_with_persona.html#a66c0a549986cd95034673dce0a592cc9" title=" " alt="" coords="289,237,525,296"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="575,292,525,285,526,280,576,286"/>
+<area shape="rect" id="Node000008" href="$d5/dd8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_services_1_1_scripts_1_1_update_billing_codes.html#a9f558c64bc2ce711e63fdb8471f846dd" title=" " alt="" coords="289,320,525,379"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="576,330,526,336,525,331,575,324"/>
+<area shape="rect" id="Node000009" href="$da/d5b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_services_1_1_scripts_1_1_update_recurring_schedules.html#a312e788a76f2d0d5e65fcc363d93d5f1" title=" " alt="" coords="289,403,525,461"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="649,347,544,393,512,405,510,399,542,388,646,342"/>
+<area shape="rect" id="Node000010" href="$d9/dc8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_services_1_1_scripts_1_1_update_social_callback_url.html#ac6b0e2b6a7a8b74581551d913ae00445" title=" " alt="" coords="289,485,525,544"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="688,351,625,415,586,447,544,476,521,487,519,482,542,471,583,443,621,411,684,347"/>
+<area shape="rect" id="Node000011" href="$de/de4/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_controllers_1_1_account_controller.html#aae7c1797604eeecb999bcd568479ffd0" title="SSO SignIn endpoint (clientName used instead of clientId." alt="" coords="278,568,536,627"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="702,352,677,400,641,456,597,511,545,558,526,570,523,565,541,554,593,507,637,453,672,398,697,350"/>
+<area shape="rect" id="Node000004" href="$d7/d46/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_program.html#a532919596f0e222c40869227ca3f649c" title=" " alt="" coords="22,55,206,97"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="270,96,206,89,207,84,271,91"/>
+<area shape="rect" id="Node000005" href="$d5/d31/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_program.html#af8b8129124833727adb81605472812f8" title=" " alt="" coords="5,121,223,164"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="271,128,224,133,223,128,270,122"/>
+</map>

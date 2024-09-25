@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.PersonaService.UpdateEmailSPFApproved" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.PersonaService.UpdateEmailSPFApproved">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,239,147"/>
+<area shape="rect" id="Node000002" href="$d3/d78/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_p_m_s_1_1_i_persona_microservice.html#ab77575c2186484effee497c8ea13d5f6" title=" " alt="" coords="287,5,555,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,85,297,66,298,71,231,90"/>
+<area shape="rect" id="Node000003" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#a22a433079ebcb85f6e24d3e7ce36835e" title=" " alt="" coords="291,88,550,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,115,275,115,275,120,239,120"/>
+<area shape="rect" id="Node000004" href="$d3/d78/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_p_m_s_1_1_i_persona_microservice.html#a216ab1f282387b20173754552e42781e" title=" " alt="" coords="287,171,554,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,145,298,163,297,169,230,150"/>
+</map>

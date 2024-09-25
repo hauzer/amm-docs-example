@@ -1,0 +1,28 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response =
+[
+    [ "AccountGuid", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#acd445f2fdde5d716a9d9e84bfa8755b9", null ],
+    [ "AccountID", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#a81707a1867353a1625a21d9689124d01", null ],
+    [ "ClientType", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#a35cb517e98c502893927c93113fd48d3", null ],
+    [ "ClientTypeName", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#ac1b1ef94791dbb67818a16a98f6bd2bb", null ],
+    [ "CreationDate", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#a4bfdd62014ced457420b0e18480b606a", null ],
+    [ "CustomReportName", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#aa92461093049792f4ccb59ebf6142a03", null ],
+    [ "FocusArea_ID", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#aed91fc5df92a2f708992538e2f1eeda9", null ],
+    [ "FocusAreaName", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#af12257e9c06923dbdcaa5c1406ffc6dd", null ],
+    [ "LastUpdate", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#a75756eca359dc83db2743df853d3e92a", null ],
+    [ "Name", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#aa4ed68d20b56a631c4bee6668b1ccf47", null ],
+    [ "PasswordRenewalFrequency", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#aa022aa0909978d7e346cc7aed4a84ad0", null ],
+    [ "PasswordStrengthLevel", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#ae71b64526d7d4d3a2d4f4a4325add69e", null ],
+    [ "PasswordStrengthLevelName", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#a02c4b29cea2a0cf633e4441856374bb3", null ],
+    [ "PowerUserEmail", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#aee89adc9cc74dda3099dd6815ee59d03", null ],
+    [ "PowerUserFirstName", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#af9db8fd2694ef917f9013263c538ae68", null ],
+    [ "PowerUserLastName", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#afcc0e5ed008a8aaa5c9b0bf68edb41ea", null ],
+    [ "Result", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#a83a1369f7653cb1ab8de252a64390fb1", null ],
+    [ "ServicePackage_ID", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#a75e948cc154cdb20cfd3c8a112364fe7", null ],
+    [ "ServicePackageName", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#a8b4ecaa996824e2ade2de7901c9b8f37", null ],
+    [ "SqlServer_ID", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#a6b876543b16df0ecd61f3eb5eb417e37", null ],
+    [ "SqlServerName", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#a58aa053ae681e57e64a55958006d8343", null ],
+    [ "StatementDay", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#a5b4f2ff14908456b1655a1f034cd604a", null ],
+    [ "Status", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#a2594f9cd80ba1834235c5f9d1c4904e3", null ],
+    [ "StatusName", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#afef320ffbb5e7b4915ca0f03c56e4434", null ],
+    [ "TimeoutMin", "d9/db8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_account_response.html#a1d921c4b937e0e2841ceeb809a42ad1d", null ]
+];

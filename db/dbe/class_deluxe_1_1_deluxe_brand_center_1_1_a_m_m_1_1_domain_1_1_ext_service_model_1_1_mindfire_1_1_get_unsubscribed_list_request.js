@@ -1,0 +1,7 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_get_unsubscribed_list_request =
+[
+    [ "GetUnsubscribedListRequest", "db/dbe/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_get_unsubscribed_list_request.html#aae0cd510524ae48c6ec87a33d2c0b9a3", null ],
+    [ "Account_ID", "db/dbe/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_get_unsubscribed_list_request.html#a4e31d79455d255a9a25ba1b899bad1fa", null ],
+    [ "SearchKeyword", "db/dbe/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_get_unsubscribed_list_request.html#a325d74fcdb20d9508c8f93095733bdfc", null ],
+    [ "ServiceType_ID", "db/dbe/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_get_unsubscribed_list_request.html#a8ea14e912e7c33db597ab26688322d24", null ]
+];

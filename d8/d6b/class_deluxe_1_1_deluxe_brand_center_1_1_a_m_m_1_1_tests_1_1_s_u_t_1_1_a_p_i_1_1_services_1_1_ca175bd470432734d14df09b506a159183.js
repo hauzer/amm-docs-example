@@ -1,0 +1,4 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca175bd470432734d14df09b506a159183 =
+[
+    [ "SuccessTest", "d8/d6b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_ca175bd470432734d14df09b506a159183.html#a3a23753e2e6a77763b21afdff032fbe4", null ]
+];

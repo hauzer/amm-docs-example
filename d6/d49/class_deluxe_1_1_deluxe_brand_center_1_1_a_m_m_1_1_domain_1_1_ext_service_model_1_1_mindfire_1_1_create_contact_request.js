@@ -1,0 +1,6 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_contact_request =
+[
+    [ "CreateContactRequest", "d6/d49/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_contact_request.html#a845698bea4b6b4ba74d521fb9b818c15", null ],
+    [ "Credentials", "d6/d49/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_contact_request.html#a8f8c0a7e6d77776d376b4bd2dcbd8128", null ],
+    [ "KeyValueList", "d6/d49/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_create_contact_request.html#a53671b1aa14dbef10633186f765b58e5", null ]
+];

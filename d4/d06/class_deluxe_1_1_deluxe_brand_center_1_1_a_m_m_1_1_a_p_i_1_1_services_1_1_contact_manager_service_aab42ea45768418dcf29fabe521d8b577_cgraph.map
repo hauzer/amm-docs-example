@@ -1,0 +1,36 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.AddOrUpdateTag" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.AddOrUpdateTag">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,222,239,280"/>
+<area shape="rect" id="Node000002" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a3b76c744327f7ab88edec35ccf52635d" title=" " alt="" coords="314,56,547,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,220,212,171,248,146,285,125,298,119,300,124,288,130,251,151,215,176,156,224"/>
+<area shape="rect" id="Node000003" href="$d3/d96/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_i_application_db_context.html#a8a659fe1e536a2f0e3016e7ef8f62622" title=" " alt="" coords="622,23,894,82"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="134,220,156,177,189,127,232,79,258,59,285,42,327,25,370,14,414,7,459,4,547,6,626,17,626,22,546,12,459,9,415,12,371,19,328,31,288,47,261,63,236,83,193,130,161,180,139,222"/>
+<area shape="rect" id="Node000005" href="$de/d46/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_segmentation_filter_helper.html#a5b579a143e8f8042ba8d3a86c738557d" title=" " alt="" coords="287,139,574,198"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="233,219,303,200,305,205,235,224"/>
+<area shape="rect" id="Node000006" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#a0ec7d7d28fa63000ba8d1bea1960d1e0" title=" " alt="" coords="301,222,560,280"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="239,248,285,248,285,254,239,254"/>
+<area shape="rect" id="Node000007" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a27fd26dd0359c9f8f3487282ce2f14e6" title=" " alt="" coords="314,304,547,363"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="235,279,305,297,303,303,233,284"/>
+<area shape="rect" id="Node000008" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a056bd26f7d76ff3998f5adda2e3d1db4" title=" " alt="" coords="305,387,556,446"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="156,279,215,327,251,351,288,373,300,378,297,383,285,378,248,356,212,331,153,283"/>
+<area shape="rect" id="Node000016" href="$de/de3/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_view_model_1_1_base_entity_v_m.html#a8f614f31b0e2752b57d098ed8019bf72" title=" " alt="" coords="312,494,549,552"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="143,279,201,365,242,413,288,456,334,484,332,489,285,460,238,417,197,368,138,282"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="547,71,606,65,607,71,547,77"/>
+<area shape="rect" id="Node000004" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#acfcf18f3c8f0b4e9c334223ec33b588f" title=" " alt="" coords="1787,138,2047,196"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="548,97,783,118,920,125,1058,128,1342,128,1569,136,1772,150,1772,156,1568,141,1342,134,1058,134,920,131,783,123,547,102"/>
+<area shape="rect" id="Node000009" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#ab1141e6abe5397940a9170ec65047b69" title=" " alt="" coords="642,192,875,251"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="554,384,572,373,588,358,597,342,605,325,620,307,652,280,686,257,689,262,655,284,624,310,610,328,602,345,592,361,576,377,556,389"/>
+<area shape="rect" id="Node000013" href="$d0/d18/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_d_b_c_service.html#aeaae3246c190a63554745e6119721558" title=" " alt="" coords="624,320,892,363"/>
+<area shape="poly" id="edge14_Node000008_Node000013" title=" " alt="" coords="555,385,646,364,647,370,557,391"/>
+<area shape="rect" id="Node000014" href="$db/d79/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_utility_1_1_c_s_v_helper.html#acf5345eac48ccd5118fc5a538fa5bc78" title=" " alt="" coords="622,387,894,446"/>
+<area shape="poly" id="edge15_Node000008_Node000014" title=" " alt="" coords="556,414,607,414,607,419,556,419"/>
+<area shape="rect" id="Node000015" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#aaac0af72e9b32df926d2afea555e1e34" title=" " alt="" coords="628,470,888,528"/>
+<area shape="poly" id="edge16_Node000008_Node000015" title=" " alt="" coords="550,444,625,463,623,468,549,449"/>
+<area shape="rect" id="Node000010" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#af3ee320e832b5241f698ab94cadab7cb" title="Updates filter to exclude Unsubscribed and Ppersona Contacts." alt="" coords="942,188,1176,247"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="875,218,927,217,927,222,875,223"/>
+<area shape="rect" id="Node000011" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#af5c0313fcaae40d09f41022ef3f1d08d" title=" " alt="" coords="1224,176,1457,235"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1176,210,1208,209,1208,214,1176,215"/>
+<area shape="rect" id="Node000012" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html#a0d4bb3161a8ff399d0720dbb775430c3" title=" " alt="" coords="1505,171,1739,230"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1458,201,1490,200,1490,206,1458,206"/>
+<area shape="poly" id="edge13_Node000012_Node000004" title=" " alt="" coords="1740,185,1771,181,1772,186,1740,190"/>
+<area shape="poly" id="edge18_Node000016_Node000016" title=" " alt="" coords="371,493,372,483,383,474,402,469,430,467,463,470,482,477,480,482,462,475,430,472,403,474,385,479,376,486,376,494"/>
+</map>

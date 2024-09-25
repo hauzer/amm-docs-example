@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.RedtailLogin" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.ContactManagerService.RedtailLogin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,239,147"/>
+<area shape="rect" id="Node000002" href="$d9/dc4/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_red_tail_1_1_i_red_tail_service.html#ac0a2cd5c7e906d0af22b1ad2982db9c7" title=" " alt="" coords="315,5,530,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,85,299,66,301,71,232,90"/>
+<area shape="rect" id="Node000003" href="$d3/d96/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_i_application_db_context.html#a8a659fe1e536a2f0e3016e7ef8f62622" title=" " alt="" coords="287,88,559,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,115,271,115,271,120,239,120"/>
+<area shape="rect" id="Node000004" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#acfcf18f3c8f0b4e9c334223ec33b588f" title=" " alt="" coords="293,171,552,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,145,299,163,298,169,231,150"/>
+</map>

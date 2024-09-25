@@ -1,0 +1,5 @@
+var _mock_campaign_builder_service_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Tests.Mocks.CampaignBuilderServiceDependencies", "df/d54/struct_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_mocks_1_1_campaign_builder_service_dependencies.html", "df/d54/struct_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_mocks_1_1_campaign_builder_service_dependencies" ],
+    [ "Deluxe.DeluxeBrandCenter.AMM.Tests.Mocks.MockCampaignBuilderService", "d3/d00/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_mocks_1_1_mock_campaign_builder_service.html", "d3/d00/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_mocks_1_1_mock_campaign_builder_service" ]
+];

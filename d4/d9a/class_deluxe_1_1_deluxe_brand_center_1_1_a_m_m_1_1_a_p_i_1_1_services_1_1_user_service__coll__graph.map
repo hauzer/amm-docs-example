@@ -1,0 +1,15 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.UserService" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.UserService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1010,48,1219,91"/>
+<area shape="rect" id="Node000002" href="$da/d9e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_client_d_b_service.html" title=" " alt="" coords="798,16,960,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="976,48,1009,52,1009,58,975,53"/>
+<area shape="rect" id="Node000003" href="$da/d9e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_client_d_b_service.html" title=" " alt="" coords="404,5,638,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="653,33,798,34,798,39,653,38"/>
+<area shape="rect" id="Node000004" href="$d0/dcc/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_client_d_b_service.html" title=" " alt="" coords="34,13,215,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="230,32,403,32,403,37,230,37"/>
+<area shape="rect" id="Node000005" href="$d7/d38/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_user_service.html" title=" " alt="" coords="830,84,928,111"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="943,87,1009,79,1010,84,943,92"/>
+<area shape="rect" id="Node000006" href="$d0/dcc/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_client_d_b_service.html" title=" " alt="" coords="438,88,604,131"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="620,103,830,96,830,102,620,109"/>
+<area shape="rect" id="Node000007" href="$d0/dcc/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_client_d_b_service.html" title=" " alt="" coords="5,80,244,139"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="259,107,437,107,437,112,259,112"/>
+</map>

@@ -1,0 +1,4 @@
+var 20191008152200___user_campaign_profile_id_8_designer_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.UserCampaignProfileId", "d4/dba/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_user_campaign_profile_id.html", "d4/dba/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_user_campaign_profile_id" ]
+];

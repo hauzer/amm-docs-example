@@ -1,0 +1,35 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Mindfire.IBaseMindfireService" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Mindfire.IBaseMindfireService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,253,227,312"/>
+<area shape="rect" id="Node000002" href="$d7/d00/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_base_mindfire_service.html" title=" " alt="" coords="300,253,518,312"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,280,300,280,300,285,242,285"/>
+<area shape="rect" id="Node000009" href="$d2/df2/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_account_service_m_f.html" title=" " alt="" coords="289,5,528,64"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="137,239,161,199,192,155,229,111,273,74,293,62,296,67,276,78,233,115,196,158,165,202,142,241"/>
+<area shape="rect" id="Node000010" href="$dd/d2f/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_configuration_service_m_f.html" title=" " alt="" coords="275,88,543,147"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="158,240,211,197,273,156,298,145,300,150,276,161,214,201,161,245"/>
+<area shape="rect" id="Node000011" href="$dc/d23/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_contact_service_m_f.html" title=" " alt="" coords="290,171,528,229"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="236,246,301,227,303,233,237,251"/>
+<area shape="rect" id="Node000012" href="$da/d66/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_program_service_m_f.html" title=" " alt="" coords="289,336,529,395"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="237,314,303,333,301,338,236,319"/>
+<area shape="rect" id="Node000013" href="$da/d26/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_report_service_m_f.html" title=" " alt="" coords="294,419,524,477"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="161,321,214,364,276,404,300,416,298,420,273,409,211,369,158,325"/>
+<area shape="rect" id="Node000014" href="$d0/d33/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_i_user_service_m_f.html" title=" " alt="" coords="299,501,518,560"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="142,324,165,363,196,407,233,450,276,487,300,501,297,505,273,492,229,454,192,410,161,366,137,327"/>
+<area shape="rect" id="Node000003" href="$df/d7f/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_account_service_m_f.html" title=" " alt="" coords="606,16,841,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="529,250,541,239,555,222,562,205,565,170,568,133,575,114,589,95,618,73,621,77,593,99,580,117,573,134,570,170,567,206,559,225,545,243,532,254"/>
+<area shape="rect" id="Node000004" href="$dc/d3c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_configuration_service_m_f.html" title=" " alt="" coords="591,109,855,168"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="531,245,542,239,566,219,589,198,648,166,650,171,593,202,569,223,544,244,533,249"/>
+<area shape="rect" id="Node000005" href="$d5/d64/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_contact_service_m_f.html" title=" " alt="" coords="606,212,840,271"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="532,264,606,254,607,259,533,269"/>
+<area shape="rect" id="Node000006" href="$d2/d75/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_program_service_m_f.html" title=" " alt="" coords="605,336,841,395"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="533,313,610,333,608,338,532,318"/>
+<area shape="rect" id="Node000007" href="$d1/d19/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_report_service_m_f.html" title=" " alt="" coords="610,419,836,477"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="533,314,545,322,562,343,570,364,577,385,593,405,611,417,608,421,589,409,572,388,564,366,558,346,541,326,530,318"/>
+<area shape="rect" id="Node000008" href="$de/da7/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_mindfire_1_1_user_service_m_f.html" title=" " alt="" coords="616,501,831,560"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="533,312,545,322,561,343,568,365,570,407,571,448,578,468,593,487,617,505,613,509,589,491,573,470,566,449,564,407,563,366,556,346,541,326,529,316"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="544,37,605,39,605,44,544,42"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="559,125,591,127,591,132,558,130"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="543,215,606,223,606,229,543,220"/>
+<area shape="poly" id="edge15_Node000012_Node000006" title=" " alt="" coords="545,363,605,363,605,368,545,368"/>
+<area shape="poly" id="edge17_Node000013_Node000007" title=" " alt="" coords="540,445,610,445,610,451,540,451"/>
+<area shape="poly" id="edge19_Node000014_Node000008" title=" " alt="" coords="534,528,615,528,615,533,534,533"/>
+</map>

@@ -1,0 +1,4 @@
+var _contact_configuration_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.EntityConfiguration.ContactConfiguration", "d8/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confi828a77d74e3c224d7576f4c0e4e4aef6.html", "d8/d60/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confi828a77d74e3c224d7576f4c0e4e4aef6" ]
+];

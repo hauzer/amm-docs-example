@@ -1,0 +1,4 @@
+var 20200211102220___u_c_contact_filter_length_change_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.UCContactFilterLengthChange", "df/d23/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_103a7a25ba175d94047ecf94edc22c2ea.html", "df/d23/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_103a7a25ba175d94047ecf94edc22c2ea" ]
+];

@@ -1,0 +1,28 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table =
+[
+    [ "Table", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#ab8df472115a290c32406d0925b2002b5", null ],
+    [ "AllRows", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a252d4359c7f909e0e407a08f95e30de1", null ],
+    [ "AppendColumn", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a825b952404a9e84cb0be14c68e6b428f", null ],
+    [ "AppendRow", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#aa15504f4039e3ccebde6742974b9906f", null ],
+    [ "Column", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#aec63c5179a35ee90ad13d60fbd19303e", null ],
+    [ "Column", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a928744b47ce228cc198330e3a723c2d2", null ],
+    [ "Data", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#acdb4ba25a0a787a53ac9105045678686", null ],
+    [ "Data", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#aa75e844f02be8837af58fa6c45393ebc", null ],
+    [ "DataOrDefault", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a936e56d57d027b6c1819b8527f1d6ee4", null ],
+    [ "DeleteColumn", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a523e17b9dd1cb57803c4e5ce26085887", null ],
+    [ "DeleteColumn", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a16ef5704b665df667a264872797972b0", null ],
+    [ "DeleteRow", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a7a532d79828aceadf6efa5b250ebe152", null ],
+    [ "GetColumnNo", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a16e661cd62aceaa49f099a1454be6a2d", null ],
+    [ "Header", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a384c9860808ef6bc3fbf3f5508f0cc25", null ],
+    [ "InsertEmptyValues", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#af89da779131f9a7f7ea26d3e4f413cb1", null ],
+    [ "InsertRow", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a74bffff8e8b43d714cd4cbf4dc1e245c", null ],
+    [ "Row", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a50861e876e2d0a51f7a639e3de95a137", null ],
+    [ "SetHeader", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#ac57963a762e57eb10c6f6dafbb1aff09", null ],
+    [ "SetHeader", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a0c1c4f0f885521459bb09f99201c0f3c", null ],
+    [ "SetValue", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a527402ab60c82440304cced50442fe48", null ],
+    [ "SetValue", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a063396e7bb68637f1ee9ef56ff1a6afc", null ],
+    [ "_data", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#ab5633b590cb05d6723d67a47947dfd25", null ],
+    [ "_header", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#a53bb94ea378c4731fcc958cefe3fcb25", null ],
+    [ "Columns", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#adcdc5c2e244aec863c9441bdff1f2144", null ],
+    [ "Rows", "d7/d96/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_table.html#abe28e7173d512e21d61d5a4678d6f0d7", null ]
+];

@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Controllers.AccountController.SSOSignIn" name="Deluxe.DeluxeBrandCenter.AMM.API.Controllers.AccountController.SSOSignIn">
+<area shape="rect" id="Node000001" title="SSO SignIn endpoint (clientName used instead of clientId." alt="" coords="5,88,263,147"/>
+<area shape="rect" id="Node000002" href="$d0/d36/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_client_service.html#afc85d8ee40ada4f85ecc4ecfa8589902" title=" " alt="" coords="329,5,552,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,85,313,66,315,71,246,90"/>
+<area shape="rect" id="Node000003" href="$dd/d7d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_services_1_1_i_session_service.html#ae94ac3c976ea7efacd75965d046f4bc8" title=" " alt="" coords="311,88,570,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,115,295,115,295,120,263,120"/>
+<area shape="rect" id="Node000004" href="$db/da0/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_account_service.html#a74144634886b7a1cf9e608ae2f6d7333" title=" " alt="" coords="322,171,559,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="246,145,315,163,313,169,245,150"/>
+</map>

@@ -1,0 +1,4 @@
+var 20210609071935___user_campaign_alternate_address_8_designer_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.UserCampaignAlternateAddress", "d6/d0f/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1804df81d6c190737cefffe617299c79b.html", "d6/d0f/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1804df81d6c190737cefffe617299c79b" ]
+];

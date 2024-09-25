@@ -1,0 +1,4 @@
+var interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_data_model_1_1_interface_1_1_i_base_entity_named =
+[
+    [ "Name", "d9/dec/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_data_model_1_1_interface_1_1_i_base_entity_named.html#ab4cf79992b831aa2ca32bfcba3a351b5", null ]
+];

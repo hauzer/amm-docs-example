@@ -1,0 +1,8 @@
+var interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_2f18dc163dd089abe0f2cf7e07d5038f =
+[
+    [ "AlternateAddress", "da/df2/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_2f18dc163dd089abe0f2cf7e07d5038f.html#ad09bad73c17a8a72c573af515ec95740", null ],
+    [ "CampaignBuilderService", "da/df2/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_2f18dc163dd089abe0f2cf7e07d5038f.html#abaf5db867a5aa2727e5ce12660c27411", null ],
+    [ "Persona", "da/df2/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_2f18dc163dd089abe0f2cf7e07d5038f.html#a8c6a5520ddb90fd1c6c8413b76452d9d", null ],
+    [ "User", "da/df2/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_2f18dc163dd089abe0f2cf7e07d5038f.html#a836a0809dc8c6838cc53ecbc0f7f4293", null ],
+    [ "UserCampaign", "da/df2/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_2f18dc163dd089abe0f2cf7e07d5038f.html#a61043c8cf03bca37d5eecdc735156c84", null ]
+];

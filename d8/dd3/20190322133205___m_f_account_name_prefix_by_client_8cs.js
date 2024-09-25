@@ -1,0 +1,4 @@
+var 20190322133205___m_f_account_name_prefix_by_client_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.Migrations.ClientDb.MFAccountNamePrefixByClient", "df/dd9/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1edd4f17a262ebf60af26e3a3cd5017ca.html", "df/dd9/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1edd4f17a262ebf60af26e3a3cd5017ca" ]
+];

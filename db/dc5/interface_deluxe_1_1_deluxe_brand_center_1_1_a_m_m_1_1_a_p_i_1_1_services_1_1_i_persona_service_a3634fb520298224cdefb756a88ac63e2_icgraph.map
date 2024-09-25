@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.IPersonaService.GetPersonasForProfile" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.IPersonaService.GetPersonasForProfile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="595,47,832,105"/>
+<area shape="rect" id="Node000002" href="$d6/d65/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_campaign_builder_service.html#a54bfcdb60d66822229cfe3ccfb21070a" title=" " alt="" coords="300,5,536,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="579,60,536,54,537,49,580,55"/>
+<area shape="rect" id="Node000004" href="$d3/dac/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_controllers_1_1_persona_controller.html#a3294e41a5767a86c62ec4209c74d60d1" title="Get a list of all Personas." alt="" coords="290,88,547,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="580,97,548,102,547,97,579,92"/>
+<area shape="rect" id="Node000003" href="$d6/d65/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_campaign_builder_service.html#a57435ae2fe593aa7ce835a599a8cb799" title=" " alt="" coords="5,5,242,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="285,37,242,37,242,32,285,32"/>
+</map>

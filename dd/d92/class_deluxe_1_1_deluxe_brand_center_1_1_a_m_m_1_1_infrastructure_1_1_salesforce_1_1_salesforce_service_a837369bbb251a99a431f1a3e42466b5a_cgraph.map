@@ -1,0 +1,12 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Salesforce.SalesforceService.GetSalesForceLeads" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Salesforce.SalesforceService.GetSalesForceLeads">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,7,259,66"/>
+<area shape="rect" id="Node000002" href="$dd/d92/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_salesforce_1_1_salesforce_service.html#a5b7d917413ae920287ea54d3a83443f0" title=" " alt="" coords="937,45,1176,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,20,390,10,548,4,719,6,806,12,890,22,958,37,957,42,889,27,805,17,719,11,548,9,390,15,259,25"/>
+<area shape="rect" id="Node000003" href="$dd/d92/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_salesforce_1_1_salesforce_service.html#ac500637f30b3f28050ae6ddf7708ff76" title=" " alt="" coords="307,37,571,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,49,292,53,291,59,259,55"/>
+<area shape="rect" id="Node000004" href="$dd/d92/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_salesforce_1_1_salesforce_service.html#a02fbf95c7dbea1af18f738f8ede2d60f" title=" " alt="" coords="619,37,889,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="571,68,603,67,603,72,571,73"/>
+<area shape="rect" id="Node000005" href="$dd/d92/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_salesforce_1_1_salesforce_service.html#ad611be5a6846250696dc849dee5ab44e" title=" " alt="" coords="626,119,883,178"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="572,103,613,113,612,118,571,108"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="875,116,922,104,923,110,876,121"/>
+</map>

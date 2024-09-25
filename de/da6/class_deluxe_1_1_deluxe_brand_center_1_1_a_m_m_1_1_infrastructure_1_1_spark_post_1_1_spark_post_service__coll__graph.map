@@ -1,0 +1,7 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.SparkPost.SparkPostService" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.SparkPost.SparkPostService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="322,23,558,81"/>
+<area shape="rect" id="Node000002" href="$da/dd6/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_i_send_email_service.html" title=" " alt="" coords="61,5,193,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,25,321,37,321,42,209,30"/>
+<area shape="rect" id="Node000003" href="$df/db6/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_a_w_s_1_1_s3_1_1_i_amazon_s3_service.html" title=" " alt="" coords="5,56,249,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,68,321,62,321,67,265,73"/>
+</map>

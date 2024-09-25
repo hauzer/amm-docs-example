@@ -1,0 +1,13 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.ClientDbContext.AddTimestampsToEntities" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.ClientDbContext.AddTimestampsToEntities">
+<area shape="rect" id="Node000001" title=" " alt="" coords="864,47,1106,105"/>
+<area shape="rect" id="Node000002" href="$db/d7e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_client_db_context.html#a69a3e756f445a6e62c5977f75b69cddb" title=" " alt="" coords="578,47,816,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="849,79,817,79,817,73,849,73"/>
+<area shape="rect" id="Node000003" href="$db/d7e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_client_db_context.html#a441837e755ee25048884045f9e44c840" title=" " alt="" coords="292,5,530,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="562,59,530,55,531,49,563,54"/>
+<area shape="rect" id="Node000004" href="$db/d7e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_client_db_context.html#a421c4dbbc059d27081fc106fd9403a17" title=" " alt="" coords="292,88,530,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="563,98,531,103,530,97,562,93"/>
+<area shape="rect" id="Node000005" href="$da/d9e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_client_d_b_service.html#ad36d9f3ad3bb7be456577c20ecba44ba" title=" " alt="" coords="5,47,244,105"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="276,101,244,96,244,91,276,95"/>
+<area shape="rect" id="Node000006" href="$da/d9e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_client_d_b_service.html#ace738b6343ab782b84c8b13650bfa841" title=" " alt="" coords="5,129,244,188"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="276,139,244,144,244,139,276,134"/>
+</map>

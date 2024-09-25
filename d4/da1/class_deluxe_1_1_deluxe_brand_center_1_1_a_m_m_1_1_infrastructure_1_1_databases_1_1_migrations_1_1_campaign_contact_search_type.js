@@ -1,0 +1,6 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_campaign_contact_search_type =
+[
+    [ "BuildTargetModel", "d4/da1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_campaign_contact_search_type.html#a8fd49b863822c39da170d956abe0b87b", null ],
+    [ "Down", "d4/da1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_campaign_contact_search_type.html#a6fee2a18f4d2fc522e9dbbd9cf9ac25f", null ],
+    [ "Up", "d4/da1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_migrations_1_1_campaign_contact_search_type.html#ae167f4ea61f09acae6ffcf28512859a3", null ]
+];

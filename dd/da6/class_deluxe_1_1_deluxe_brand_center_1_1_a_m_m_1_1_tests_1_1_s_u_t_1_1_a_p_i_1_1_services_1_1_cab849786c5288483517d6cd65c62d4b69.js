@@ -1,0 +1,4 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_cab849786c5288483517d6cd65c62d4b69 =
+[
+    [ "SocialCampaignElementNotFound", "dd/da6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_s_u_t_1_1_a_p_i_1_1_services_1_1_cab849786c5288483517d6cd65c62d4b69.html#a0b892e526cabfcc81b178861aa038ba7", null ]
+];

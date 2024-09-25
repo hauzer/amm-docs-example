@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,213,113,240"/>
+<area shape="rect" id="Node000001" href="$de/de4/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_controllers_1_1_account_controller.html" title="Account Controller." alt="" coords="161,5,414,48"/>
+<area shape="poly" id="edge7_Node000000_Node000001" title=" " alt="" coords="67,198,80,165,100,128,126,90,159,58,178,46,181,51,162,62,130,93,105,130,85,168,72,200"/>
+<area shape="rect" id="Node000002" href="$d2/d39/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_controllers_1_1_admin_controller.html" title="Admin controller." alt="" coords="166,72,408,115"/>
+<area shape="poly" id="edge8_Node000000_Node000002" title=" " alt="" coords="77,199,113,161,159,124,184,113,186,118,162,129,116,164,81,203"/>
+<area shape="rect" id="Node000003" href="$d1/de1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_controllers_1_1_d_b_c_controller.html" title=" " alt="" coords="170,139,404,181"/>
+<area shape="poly" id="edge9_Node000000_Node000003" title=" " alt="" coords="114,205,160,191,200,179,201,185,161,196,115,211"/>
+<area shape="rect" id="Node000004" href="$d8/d63/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_controllers_1_1_i_d_p_controller.html" title=" " alt="" coords="173,205,402,248"/>
+<area shape="poly" id="edge10_Node000000_Node000004" title=" " alt="" coords="129,224,173,224,173,229,129,229"/>
+<area shape="rect" id="Node000005" href="$d3/dac/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_controllers_1_1_persona_controller.html" title="Persona Controller." alt="" coords="161,272,414,315"/>
+<area shape="poly" id="edge11_Node000000_Node000005" title=" " alt="" coords="115,243,161,257,201,269,200,274,160,263,114,248"/>
+<area shape="rect" id="Node000006" href="$de/d9b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_controllers_1_1_root_controller.html" title="Root Controller." alt="" coords="171,339,404,397"/>
+<area shape="poly" id="edge12_Node000000_Node000006" title=" " alt="" coords="82,250,117,289,162,324,184,336,181,341,159,329,113,292,78,254"/>
+<area shape="rect" id="Node000007" href="$d0/dd6/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_controllers_1_1_social_network_controller.html" title=" " alt="" coords="170,421,404,480"/>
+<area shape="poly" id="edge13_Node000000_Node000007" title=" " alt="" coords="71,254,84,289,103,330,129,372,162,407,179,419,176,423,159,411,125,375,98,333,79,291,66,256"/>
+</map>

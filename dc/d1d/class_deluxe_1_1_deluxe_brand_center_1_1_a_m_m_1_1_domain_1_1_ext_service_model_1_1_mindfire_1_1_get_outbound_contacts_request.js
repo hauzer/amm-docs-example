@@ -1,0 +1,6 @@
+var class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_get_outbound_contacts_request =
+[
+    [ "GetOutboundContactsRequest", "dc/d1d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_get_outbound_contacts_request.html#afd2fdf2a080e175464791729225d9ede", null ],
+    [ "Credentials", "dc/d1d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_get_outbound_contacts_request.html#ab14add753242a916b04ab02e5b4a8bbc", null ],
+    [ "OutboundSchedule_ID", "dc/d1d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_mindfire_1_1_get_outbound_contacts_request.html#a681bb44221a4848508ff454799c917c7", null ]
+];

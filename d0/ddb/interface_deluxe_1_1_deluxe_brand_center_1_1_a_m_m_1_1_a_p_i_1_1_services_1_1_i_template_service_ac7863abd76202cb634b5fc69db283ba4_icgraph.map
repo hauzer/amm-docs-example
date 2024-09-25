@@ -1,0 +1,18 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.ITemplateService.GetSingleByTemplateId" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.ITemplateService.GetSingleByTemplateId">
+<area shape="rect" id="Node000001" title=" " alt="" coords="613,129,855,188"/>
+<area shape="rect" id="Node000002" href="$d8/d0b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_user_campaign_service.html#aded739d67eedc332d45dbba0d8a95f0a" title=" " alt="" coords="293,5,565,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="663,124,564,78,533,67,535,62,566,74,666,120"/>
+<area shape="rect" id="Node000003" href="$d6/d65/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_campaign_builder_service.html#ac1b3a91a9f2819397f577e5038eff3e9" title=" " alt="" coords="311,88,547,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="597,143,547,136,548,131,598,137"/>
+<area shape="rect" id="Node000004" href="$d6/d65/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_campaign_builder_service.html#a5cf68d2a0e9c29659835e8bb5032992c" title=" " alt="" coords="311,171,547,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="598,180,548,187,547,181,597,175"/>
+<area shape="rect" id="Node000008" href="$d6/d65/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_campaign_builder_service.html#a04a2bdc2d02130bbd00f6b00406563d4" title=" " alt="" coords="5,253,245,312"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="672,198,621,223,566,244,484,263,399,275,245,286,245,280,399,270,483,257,564,239,619,219,670,194"/>
+<area shape="rect" id="Node000005" href="$d6/d65/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_campaign_builder_service.html#a57435ae2fe593aa7ce835a599a8cb799" title=" " alt="" coords="7,5,243,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="296,165,291,161,273,140,266,118,259,98,243,78,226,67,229,62,246,74,264,95,271,117,278,137,295,157,300,161"/>
+<area shape="rect" id="Node000006" href="$d6/d65/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_campaign_builder_service.html#a3479067e8c8a3a312a9e39890ebb9a9c" title=" " alt="" coords="7,88,243,147"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="303,169,235,150,236,145,304,163"/>
+<area shape="rect" id="Node000007" href="$d6/d65/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_campaign_builder_service.html#a947f982ab93bc77b7199c9aa69ae3628" title=" " alt="" coords="7,171,243,229"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="295,203,244,203,244,197,295,197"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="304,237,236,255,235,250,303,231"/>
+</map>

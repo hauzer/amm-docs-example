@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.ScriptRunner.Services.Scripts.SyncCampaignWithPersona" name="Deluxe.DeluxeBrandCenter.AMM.ScriptRunner.Services.Scripts.SyncCampaignWithPersona">
+<area shape="rect" id="Node000001" title=" " alt="" coords="988,8,1224,67"/>
+<area shape="rect" id="Node000002" href="$d9/d9b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_services_1_1_script.html" title=" " alt="" coords="675,16,939,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="954,35,988,35,988,40,954,40"/>
+<area shape="rect" id="Node000003" href="$d9/d9b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_services_1_1_script.html" title=" " alt="" coords="194,8,419,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,35,675,35,675,40,435,40"/>
+<area shape="rect" id="Node000004" href="$df/dfe/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_services_1_1_i_script.html" title=" " alt="" coords="5,24,145,51"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="160,35,193,35,193,40,160,40"/>
+</map>

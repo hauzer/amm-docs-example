@@ -1,0 +1,4 @@
+var _campaign_setting_configuration_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Databases.EntityConfiguration.CampaignSettingConfiguration", "de/de8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confi0de5768972ee792f2bc159d12afb9e8d.html", "de/de8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_entity_confi0de5768972ee792f2bc159d12afb9e8d" ]
+];

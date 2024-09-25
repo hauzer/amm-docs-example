@@ -1,0 +1,4 @@
+var _template_thumbnail_overlay_model_8cs =
+[
+    [ "Deluxe.DeluxeBrandCenter.AMM.Domain.DataModel.TemplateThumbnailOverlayModel", "dc/daf/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_data_model_1_1_template_thumbnail_overlay_model.html", "dc/daf/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_data_model_1_1_template_thumbnail_overlay_model" ]
+];

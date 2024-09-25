@@ -1,0 +1,103 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.IDBService&lt; TModel, TModelVM &gt;" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.IDBService&lt; TModel, TModelVM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,900,210,959"/>
+<area shape="rect" id="Node000002" href="$d6/d4e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_d_b_service.html" title=" " alt="" coords="512,900,712,959"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,927,512,927,512,932,225,932"/>
+<area shape="rect" id="Node000024" href="$d3/dac/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_named_db_service.html" title=" " alt="" coords="490,487,734,545"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="145,887,232,803,323,727,416,655,567,544,570,548,419,659,326,731,235,807,149,891"/>
+<area shape="rect" id="Node000036" href="$d3/ddb/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_d_b_service.html" title=" " alt="" coords="510,992,714,1051"/>
+<area shape="poly" id="edge42_Node000001_Node000036" title=" " alt="" coords="225,948,510,1000,509,1005,224,953"/>
+<area shape="rect" id="Node000038" href="$d3/ddb/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_d_b_service.html" title=" " alt="" coords="498,1092,727,1151"/>
+<area shape="poly" id="edge45_Node000001_Node000038" title=" " alt="" coords="158,966,195,991,235,1014,301,1041,369,1064,498,1097,497,1103,368,1069,299,1046,233,1018,192,996,155,970"/>
+<area shape="rect" id="Node000040" href="$d3/ddb/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_d_b_service.html" title=" " alt="" coords="488,777,737,836"/>
+<area shape="poly" id="edge48_Node000001_Node000040" title=" " alt="" coords="224,899,488,834,489,839,225,904"/>
+<area shape="rect" id="Node000042" href="$d3/ddb/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_d_b_service.html" title=" " alt="" coords="510,1209,714,1268"/>
+<area shape="poly" id="edge51_Node000001_Node000042" title=" " alt="" coords="130,972,173,1044,201,1080,235,1111,301,1152,373,1183,444,1206,510,1221,509,1226,443,1211,371,1188,299,1157,232,1115,198,1084,168,1047,126,974"/>
+<area shape="rect" id="Node000044" href="$d3/ddb/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_d_b_service.html" title=" " alt="" coords="489,240,736,299"/>
+<area shape="poly" id="edge54_Node000001_Node000044" title=" " alt="" coords="126,885,171,796,231,697,324,575,422,461,512,365,579,297,582,301,516,369,426,465,328,579,236,700,176,799,131,887"/>
+<area shape="rect" id="Node000003" href="$dd/dd8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_named_db_service.html" title=" " alt="" coords="1038,487,1279,545"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="672,889,866,763,950,706,989,676,997,660,1000,645,998,615,997,586,1002,571,1013,556,1036,537,1040,541,1017,559,1007,573,1003,587,1003,615,1005,645,1002,662,993,679,953,710,869,767,675,893"/>
+<area shape="rect" id="Node000016" href="$d6/d4e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_d_b_service.html" title=" " alt="" coords="1058,900,1259,959"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="728,927,1058,927,1058,932,728,932"/>
+<area shape="rect" id="Node000018" href="$d6/d4e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_d_b_service.html" title=" " alt="" coords="1044,983,1273,1041"/>
+<area shape="poly" id="edge17_Node000002_Node000018" title=" " alt="" coords="728,944,1044,992,1043,997,727,949"/>
+<area shape="rect" id="Node000020" href="$d6/d4e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_d_b_service.html" title=" " alt="" coords="1034,817,1283,876"/>
+<area shape="poly" id="edge19_Node000002_Node000020" title=" " alt="" coords="728,909,1033,863,1034,868,728,915"/>
+<area shape="rect" id="Node000022" href="$d6/d4e/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_d_b_service.html" title=" " alt="" coords="1058,1065,1259,1124"/>
+<area shape="poly" id="edge21_Node000002_Node000022" title=" " alt="" coords="716,964,739,978,751,992,763,1005,835,1039,913,1062,989,1078,1058,1087,1058,1092,989,1083,912,1068,833,1044,759,1009,747,996,735,982,713,968"/>
+<area shape="rect" id="Node000004" href="$dd/dd8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_named_db_service.html" title=" " alt="" coords="1602,652,1846,711"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1294,547,1304,556,1315,572,1317,589,1318,604,1328,618,1347,629,1373,639,1442,655,1523,666,1602,673,1602,678,1522,671,1441,660,1372,644,1345,634,1325,622,1313,606,1311,590,1310,574,1300,559,1290,551"/>
+<area shape="rect" id="Node000006" href="$dd/dd8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_named_db_service.html" title=" " alt="" coords="1600,188,1848,247"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="1237,477,1301,443,1380,391,1437,345,1497,302,1579,256,1607,245,1609,250,1581,261,1500,306,1441,350,1383,396,1304,448,1240,482"/>
+<area shape="rect" id="Node000010" href="$dd/dd8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_named_db_service.html" title=" " alt="" coords="1580,569,1868,628"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="1295,545,1327,551,1457,569,1580,583,1580,589,1456,575,1326,556,1294,550"/>
+<area shape="rect" id="Node000012" href="$dd/dd8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_named_db_service.html" title=" " alt="" coords="1604,487,1844,545"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="1294,513,1604,513,1604,519,1294,519"/>
+<area shape="rect" id="Node000014" href="$dd/dd8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_named_db_service.html" title=" " alt="" coords="1604,404,1844,463"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="1294,494,1603,448,1604,453,1295,499"/>
+<area shape="rect" id="Node000005" href="$d3/dbb/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_account_status_service.html" title=" " alt="" coords="1940,759,2164,817"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1846,713,1869,720,1971,755,1969,761,1867,725,1845,718"/>
+<area shape="rect" id="Node000007" href="$d6/d65/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_campaign_builder_service.html" title=" " alt="" coords="1934,155,2170,213"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1863,201,1933,193,1934,199,1863,206"/>
+<area shape="rect" id="Node000009" href="$d8/d0b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_user_campaign_service.html" title=" " alt="" coords="1918,88,2186,131"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="1853,179,1866,174,1891,157,1916,140,1946,129,1948,134,1918,145,1894,161,1869,178,1855,184"/>
+<area shape="rect" id="Node000008" href="$d3/d00/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_mocks_1_1_mock_campaign_builder_service.html" title=" " alt="" coords="2237,80,2503,139"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="2185,150,2242,137,2243,142,2186,155"/>
+<area shape="rect" id="Node000011" href="$dd/d2b/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_campaign_element_service.html" title=" " alt="" coords="1930,605,2174,664"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1883,613,1930,619,1929,624,1883,619"/>
+<area shape="rect" id="Node000013" href="$d7/d3d/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_campaign_service.html" title=" " alt="" coords="1932,451,2172,493"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1859,495,1931,485,1932,491,1860,500"/>
+<area shape="rect" id="Node000015" href="$d3/d4f/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_settings_service.html" title=" " alt="" coords="1938,292,2167,335"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1847,396,1867,390,2003,333,2005,338,1869,394,1849,401"/>
+<area shape="rect" id="Node000017" href="$d4/d06/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_contact_manager_service.html" title=" " alt="" coords="1607,985,1841,1044"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="1274,944,1607,994,1606,1000,1273,949"/>
+<area shape="rect" id="Node000019" href="$dc/d62/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_email_domain_service.html" title=" " alt="" coords="1594,1075,1854,1117"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="1289,1029,1594,1074,1593,1079,1288,1034"/>
+<area shape="rect" id="Node000021" href="$d5/dd8/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_signature_block_service.html" title=" " alt="" coords="1611,900,1837,959"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="1299,864,1611,910,1611,916,1299,870"/>
+<area shape="rect" id="Node000023" href="$de/d5c/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_template_service.html" title=" " alt="" coords="1607,1228,1841,1271"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="1275,1123,1644,1225,1642,1230,1273,1129"/>
+<area shape="poly" id="edge24_Node000024_Node000003" title=" " alt="" coords="750,513,1038,513,1038,519,750,519"/>
+<area shape="rect" id="Node000025" href="$d3/dac/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_named_db_service.html" title=" " alt="" coords="1036,652,1281,711"/>
+<area shape="poly" id="edge25_Node000024_Node000025" title=" " alt="" coords="659,553,707,589,762,619,830,642,902,658,972,669,1036,675,1036,680,971,674,901,663,829,647,760,624,704,593,656,558"/>
+<area shape="rect" id="Node000027" href="$d3/dac/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_named_db_service.html" title=" " alt="" coords="1035,159,1282,217"/>
+<area shape="poly" id="edge28_Node000024_Node000027" title=" " alt="" coords="634,471,685,395,720,355,759,321,825,281,896,249,968,225,1034,207,1035,213,969,230,898,254,828,285,763,325,724,359,689,398,639,474"/>
+<area shape="rect" id="Node000030" href="$d3/dac/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_named_db_service.html" title=" " alt="" coords="1015,569,1302,628"/>
+<area shape="poly" id="edge33_Node000024_Node000030" title=" " alt="" coords="740,547,761,551,891,570,1015,584,1014,590,890,576,761,556,739,552"/>
+<area shape="rect" id="Node000032" href="$d3/dac/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_named_db_service.html" title=" " alt="" coords="1036,375,1281,433"/>
+<area shape="poly" id="edge36_Node000024_Node000032" title=" " alt="" coords="749,485,1035,426,1036,432,751,491"/>
+<area shape="rect" id="Node000034" href="$d3/dac/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_named_db_service.html" title=" " alt="" coords="1036,277,1281,336"/>
+<area shape="poly" id="edge39_Node000024_Node000034" title=" " alt="" coords="662,475,708,444,760,416,829,388,901,364,1035,328,1037,333,902,369,831,393,762,421,711,449,665,479"/>
+<area shape="rect" id="Node000026" href="$d9/d8d/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_account_status_service.html" title=" " alt="" coords="1610,817,1838,876"/>
+<area shape="poly" id="edge26_Node000025_Node000026" title=" " alt="" coords="1297,706,1425,741,1492,763,1558,788,1582,803,1611,814,1609,819,1579,808,1555,793,1491,768,1423,746,1295,712"/>
+<area shape="poly" id="edge27_Node000026_Node000005" title=" " alt="" coords="1853,821,1940,805,1941,811,1854,826"/>
+<area shape="rect" id="Node000028" href="$d6/d35/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_campaign_builder_service.html" title=" " alt="" coords="1604,105,1844,164"/>
+<area shape="poly" id="edge29_Node000027_Node000028" title=" " alt="" coords="1297,172,1603,143,1604,149,1298,178"/>
+<area shape="poly" id="edge30_Node000028_Node000007" title=" " alt="" coords="1860,152,1934,164,1933,169,1859,158"/>
+<area shape="rect" id="Node000029" href="$d1/d36/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_tests_1_1_mocks_1_1_i_mock_campaign_builder_service.html" title=" " alt="" coords="1917,5,2187,64"/>
+<area shape="poly" id="edge31_Node000028_Node000029" title=" " alt="" coords="1836,98,1953,62,1954,67,1838,103"/>
+<area shape="poly" id="edge32_Node000029_Node000008" title=" " alt="" coords="2195,65,2243,77,2242,82,2194,71"/>
+<area shape="rect" id="Node000031" href="$d2/d03/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_campaign_element_service.html" title=" " alt="" coords="1600,735,1848,793"/>
+<area shape="poly" id="edge34_Node000030_Node000031" title=" " alt="" coords="1297,634,1304,638,1312,646,1317,655,1321,663,1328,670,1364,683,1432,701,1600,737,1599,742,1431,706,1363,688,1325,674,1316,666,1312,657,1308,649,1301,642,1294,638"/>
+<area shape="poly" id="edge35_Node000031_Node000011" title=" " alt="" coords="1849,727,1867,720,1933,692,1994,662,1996,667,1935,697,1869,725,1850,732"/>
+<area shape="rect" id="Node000033" href="$d7/d95/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_campaign_service.html" title=" " alt="" coords="1602,337,1846,380"/>
+<area shape="poly" id="edge37_Node000032_Node000033" title=" " alt="" coords="1296,382,1326,379,1469,368,1601,360,1602,366,1469,373,1327,384,1296,387"/>
+<area shape="poly" id="edge38_Node000033_Node000013" title=" " alt="" coords="1844,382,1869,389,1943,418,2008,448,2006,453,1941,423,1867,395,1843,387"/>
+<area shape="rect" id="Node000035" href="$d3/d8e/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_settings_service.html" title=" " alt="" coords="1607,271,1841,313"/>
+<area shape="poly" id="edge40_Node000034_Node000035" title=" " alt="" coords="1296,300,1607,292,1607,298,1296,306"/>
+<area shape="poly" id="edge41_Node000035_Node000015" title=" " alt="" coords="1856,298,1937,303,1937,309,1856,303"/>
+<area shape="rect" id="Node000037" href="$d8/d4e/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_contact_manager_service.html" title=" " alt="" coords="1040,1148,1277,1207"/>
+<area shape="poly" id="edge43_Node000036_Node000037" title=" " alt="" coords="710,1054,762,1071,906,1112,1040,1147,1039,1152,905,1117,760,1076,708,1059"/>
+<area shape="poly" id="edge44_Node000037_Node000017" title=" " alt="" coords="1277,1141,1618,1042,1620,1047,1279,1146"/>
+<area shape="rect" id="Node000039" href="$d1/d31/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_email_domain_service.html" title=" " alt="" coords="1027,1231,1290,1273"/>
+<area shape="poly" id="edge46_Node000038_Node000039" title=" " alt="" coords="743,1150,1016,1216,1064,1227,1063,1233,1014,1221,742,1155"/>
+<area shape="poly" id="edge47_Node000039_Node000019" title=" " alt="" coords="1271,1224,1302,1216,1492,1163,1651,1115,1653,1120,1493,1168,1303,1221,1272,1229"/>
+<area shape="rect" id="Node000041" href="$dd/d36/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_signature_block_service.html" title=" " alt="" coords="1044,735,1273,793"/>
+<area shape="poly" id="edge49_Node000040_Node000041" title=" " alt="" coords="752,793,1043,770,1044,776,752,798"/>
+<area shape="poly" id="edge50_Node000041_Node000021" title=" " alt="" coords="1289,782,1421,815,1491,838,1558,867,1570,877,1582,886,1612,899,1610,904,1579,890,1567,881,1555,872,1489,843,1420,820,1288,787"/>
+<area shape="rect" id="Node000043" href="$d0/ddb/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_template_service.html" title=" " alt="" coords="1040,1297,1278,1340"/>
+<area shape="poly" id="edge52_Node000042_Node000043" title=" " alt="" coords="730,1253,1039,1299,1039,1304,729,1258"/>
+<area shape="poly" id="edge53_Node000043_Node000023" title=" " alt="" coords="1293,1300,1606,1261,1607,1266,1294,1305"/>
+<area shape="rect" id="Node000045" href="$d9/daf/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_user_campaign_service.html" title=" " alt="" coords="1327,57,1556,116"/>
+<area shape="poly" id="edge55_Node000044_Node000045" title=" " alt="" coords="684,230,760,199,911,157,1064,126,1207,105,1327,92,1327,98,1208,110,1065,131,912,162,762,204,686,235"/>
+<area shape="poly" id="edge56_Node000045_Node000009" title=" " alt="" coords="1571,84,1714,85,1868,91,1918,94,1917,99,1868,96,1713,91,1571,89"/>
+</map>

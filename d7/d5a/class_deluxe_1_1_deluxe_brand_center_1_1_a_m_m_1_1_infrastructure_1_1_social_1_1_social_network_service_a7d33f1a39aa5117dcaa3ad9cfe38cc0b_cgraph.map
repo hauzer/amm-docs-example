@@ -1,0 +1,27 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Social.SocialNetworkService.Sharing" name="Deluxe.DeluxeBrandCenter.AMM.Infrastructure.Social.SocialNetworkService.Sharing">
+<area shape="rect" id="Node000001" title="Does actual posting on given social network." alt="" coords="5,295,219,353"/>
+<area shape="rect" id="Node000002" href="$d7/d5a/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_social_network_service.html#a21d19fd55a860c6e36a4ad1ccb2220fa" title=" " alt="" coords="273,129,564,188"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,292,196,244,230,219,265,198,277,192,280,197,268,202,232,223,199,248,144,296"/>
+<area shape="rect" id="Node000003" href="$d7/d5a/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_social_network_service.html#aa23b4c703793c51a18bc358208abe58c" title=" " alt="" coords="267,212,570,271"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,293,292,273,293,278,220,298"/>
+<area shape="rect" id="Node000009" href="$dd/d77/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_i_twitter_service.html#a836a366cb71765326636b915e82aa33f" title=" " alt="" coords="308,295,528,353"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="219,321,293,321,293,327,219,327"/>
+<area shape="rect" id="Node000010" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a92bd6d01c18ab350b60414ec6991a32d" title=" " alt="" coords="284,377,552,436"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="220,350,293,370,292,375,218,355"/>
+<area shape="rect" id="Node000013" href="$d0/db3/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_i_linkedin_service.html#a2dbc8bbcb8769107e47523df03299338" title=" " alt="" coords="304,460,533,519"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="144,352,199,400,232,425,268,446,290,456,288,461,265,450,230,429,196,404,141,356"/>
+<area shape="rect" id="Node000004" href="$d0/db3/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_i_linkedin_service.html#a54b3fd05461ea8a442a2c9f9115dc05c" title=" " alt="" coords="626,5,879,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="553,209,568,198,581,184,587,169,592,138,596,106,603,90,616,74,619,71,623,75,620,78,608,93,601,108,597,139,592,170,585,186,572,202,556,214"/>
+<area shape="rect" id="Node000005" href="$d3/d78/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_p_m_s_1_1_i_persona_microservice.html#aaac0d5c632bb08eec28d1a628d6ea5e2" title=" " alt="" coords="641,88,863,147"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="544,209,569,198,583,188,592,178,602,167,617,156,626,151,629,156,619,161,605,171,596,181,586,192,571,202,546,214"/>
+<area shape="rect" id="Node000006" href="$d7/d5a/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_social_network_service.html#a3f70abef72d83fe91c7ca28ef5f547c7" title=" " alt="" coords="646,171,859,229"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="570,220,630,212,631,218,571,225"/>
+<area shape="rect" id="Node000007" href="$d7/d5a/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_social_1_1_social_network_service.html#a7dc642e27e2b56d23c95c6b9785d2f92" title=" " alt="" coords="646,253,859,312"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="571,257,631,265,630,270,570,263"/>
+<area shape="rect" id="Node000008" href="$da/dd6/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_domain_1_1_ext_service_model_1_1_i_send_email_service.html#aab8d80dedde4887e035ba39f80308806" title=" " alt="" coords="631,336,873,395"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="546,269,571,280,586,291,596,301,605,312,619,322,629,327,626,331,617,326,602,316,592,305,583,295,569,285,544,274"/>
+<area shape="rect" id="Node000011" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#aea43a5ab4bb779ccf8678ef7aac5be0c" title=" " alt="" coords="618,419,886,477"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="553,421,603,427,602,432,553,426"/>
+<area shape="rect" id="Node000012" href="$d6/db1/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_infrastructure_1_1_databases_1_1_application_db_context.html#a5a50b059decefb01e96a92bc29bcd3e6" title=" " alt="" coords="934,419,1203,477"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="887,445,918,445,918,451,887,451"/>
+</map>

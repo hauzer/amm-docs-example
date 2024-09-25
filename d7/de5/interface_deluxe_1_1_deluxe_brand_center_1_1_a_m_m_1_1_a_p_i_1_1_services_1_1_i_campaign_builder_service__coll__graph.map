@@ -1,0 +1,9 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.API.Services.ICampaignBuilderService" name="Deluxe.DeluxeBrandCenter.AMM.API.Services.ICampaignBuilderService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="7,312,248,371"/>
+<area shape="rect" id="Node000002" href="$d3/dac/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_named_db_service.html" title=" " alt="" coords="12,220,243,263"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,278,130,312,125,312,125,278"/>
+<area shape="rect" id="Node000003" href="$d3/dac/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_named_db_service.html" title=" " alt="" coords="5,97,250,156"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,171,130,220,125,220,125,171"/>
+<area shape="rect" id="Node000004" href="$d3/ddb/interface_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_a_p_i_1_1_services_1_1_i_d_b_service.html" title=" " alt="" coords="54,5,201,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="130,64,130,97,125,97,125,64"/>
+</map>

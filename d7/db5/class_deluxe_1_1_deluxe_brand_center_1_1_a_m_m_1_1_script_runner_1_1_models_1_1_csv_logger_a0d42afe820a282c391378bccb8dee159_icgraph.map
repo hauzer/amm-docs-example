@@ -1,0 +1,8 @@
+<map id="Deluxe.DeluxeBrandCenter.AMM.ScriptRunner.Models.CsvLogger.ProcessedRecord" name="Deluxe.DeluxeBrandCenter.AMM.ScriptRunner.Models.CsvLogger.ProcessedRecord">
+<area shape="rect" id="Node000001" title=" " alt="" coords="600,29,849,88"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="773,17,755,11,725,8,698,10,681,15,673,21,672,29,667,29,668,19,679,10,698,5,725,3,756,5,775,13"/>
+<area shape="rect" id="Node000002" href="$d7/db5/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_models_1_1_csv_logger.html#aad46b1b3d202949c1390b7e6b1a3828d" title=" " alt="" coords="303,29,552,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="585,61,553,61,553,56,585,56"/>
+<area shape="rect" id="Node000003" href="$d7/db5/class_deluxe_1_1_deluxe_brand_center_1_1_a_m_m_1_1_script_runner_1_1_models_1_1_csv_logger.html#ab114cc0bbd437169a968ae827d342d86" title="script logger constructor" alt="" coords="5,29,255,88"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="287,61,255,61,255,56,287,56"/>
+</map>
